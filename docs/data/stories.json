@@ -3,6 +3,126 @@
  "briefing": "The hottest thread this month is the radio layer: a WOOT ’26 paper showed rogue-base-station and silent-SMS attacks on production Teslas, and a new study mapped where 21 connected cars send their data. Charger security keeps producing high-severity bugs, and perception attacks on LiDAR and cameras are heading to VehicleSec in Baltimore. On the threat side, VicOne says in-vehicle systems overtook enterprise IT as the most-hit target in Q3.",
  "stories": [
   {
+   "id": "0fb47f221d54",
+   "title": "NIOCIS: Typed-Decision Next-Hop Routing with Node-Conditioned Option Spaces for Tool-Use Agents",
+   "url": "https://arxiv.org/abs/2610.25985",
+   "source": "arXiv cs.CR",
+   "published": "2026-10-20",
+   "category": "Threat reports",
+   "heat": 4,
+   "summary": "arXiv:2610.25985v1 Announce Type: new Abstract: Tool-use agents pay per decision: at each hop a language model re-reads the state and thinks for seconds, though its actions are finite and decisions recur. We present NIOCIS, a routing layer that folds execution logs into a loop-collapsed action graph (forward transitions plus recovery back-edges) answering one typed question: which declared option ",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "0dfa738d1635",
+   "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
+   "url": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
+   "source": "The Hacker News",
+   "published": "2026-10-20",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their control panels open on the internet. The agents tried more than 1,200 sites and reached websites belonging to more than 100 companies, including farm-equipment maker Deere, appliance company",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "d8c82556c6d3",
+   "title": "SecODD: Adapting the Operational Design Domain from Driving Autonomy to Autonomous Cyber Defense",
+   "url": "https://arxiv.org/abs/2610.24741",
+   "source": "arXiv cs.CR",
+   "published": "2026-10-20",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "arXiv:2610.24741v1 Announce Type: new Abstract: Security operations centers are beginning to delegate detection, triage, and containment to Autonomous Cyber Defense (ACD) agents at execution time. Erroneous high-impact playbooks can disrupt critical services and create accountability gaps among deployers, SOC supervisors, vendors, managed service providers, and infrastructure providers. We propose",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "9e57ed1bc6e8",
+   "title": "Adaptive Cyber-Defense for Evolving Attacker Capabilities using Reinforcement Learning and Behavior Trees",
+   "url": "https://arxiv.org/abs/2610.25420",
+   "source": "arXiv cs.CR",
+   "published": "2026-10-20",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "arXiv:2610.25420v1 Announce Type: new Abstract: Autonomous cyber-defense agents trained using reinforcement learning (RL) are increasingly adopted for defending enterprise computer networks. However, existing approaches may become brittle as attacker capabilities evolve and enable new attack strategies. In this work, we study the problem of adapting defender policies learned in CAGE Challenge Scen",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "55c789fcb61f",
+   "title": "Your Vehicle Is a National Security Risk From China - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVlRrMndodkZjaW0wdUJsMTdweVRDMmFrQzlWN0JLY25oeTBac013ajExcHZ2alctNkRlNl9wc016UlNsRjhubXp0MTRFcGlqM0hURVQ2UVd2QkY5YW5JV2tzN0NIZC10Y1NGVGxKVlY2WnIyZUtaYm5HQ2pxYXJFbHhwaTh6RTFUR0stWUpsX1RfS2tkZjZ4bmwtcE0?oc=5",
+   "source": "Yahoo",
+   "published": "2026-10-20",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Your Vehicle Is a National Security Risk From China Yahoo",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "5eddcbae6ab5",
+   "title": "Police warn of 19 auto thefts across Fulton Market, West Town - CWB Chicago",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMHBudWlHZm53cFRBbnloSllPWkYtY1d6VUc2ZVIxZXh3TEtkMkhxeDBJOUVjbUdFUTRrZkFHcmN1NFVCT3FyNE9GVnEtNW80X2ZJT2hNdjdsVXB3Nks3em9Zb2FaRDdvX2hvdVdNVGpSUXpFaTllYlM0WUh3WjlOU194SThNNmVDd2p1b1pTd3dLMy1HbU85U1JNLUE?oc=5",
+   "source": "CWB Chicago",
+   "published": "2026-10-20",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Police warn of 19 auto thefts across Fulton Market, West Town CWB Chicago",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "4c78cd743c3a",
+   "title": "Aiman Khan questions flying-car obsession as climate crisis worsens - The Express Tribune",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcmFhMkJwc205NzU1b0x3Yy1FYzRFbnVBVDFjQkVFRlVqdllkMHUxZmFPRDZuS3VUQWhXNnFBT3Rodmh4UUJ2ZjhKTlBMci1yZ0pTMHBWUE9PcWYtM1VNb191ZG13RXY5aDdfVnlVTnIycEE5ZlNhTXhzbEUxNXo0MVNUZk10ckRqNzlDUWhSQ3ZDVGl6YTY3TmE2TFNwakl5ZXhtcVZ5b9IBrwFBVV95cUxPZ1V0RUJCcjQ5V0tLVUg4aTBleFEtYXdrLXFSb3Q1dVh4cWw4NEVjU3djVUhQbVFJLUlzeXhzLUdKRUVzM0R0cXpwYlFYUTljOV9OUGw5b0hNM1h5c0RSc0tRdm1DRHAweFNmdkRoTjA0a1VreThvRVFDa3dYQmJGeDVtRy13ZTE4MWt0ZUNCVk9TOXBwbG10cWJLTUVwT1llQjBCUUJLSGhSc2h5aWZZ?oc=5",
+   "source": "The Express Tribune",
+   "published": "2026-10-20",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Aiman Khan questions flying-car obsession as climate crisis worsens The Express Tribune",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "9b8d2f351390",
+   "title": "Automotive Personal Assistance System Market Forecast to 2035: Growth Driven by Software-Defined Vehicle Demand - IndexBox",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObWZETGNSZUVIeW1GeVp4YWVBTFRzdXVnMmtwWVNBWWF2NGhqZXE4Qk41UHBOdjV3MWpCU0RrUUlfcVhFeTNsOWFNY0tjeERHd0Q2QkNWRW1wRC1KZTlrelo1bllDbGxscVZHYU5sc0YtaVdNd0swdkhRUS1zd0R6bElBLWpadVpZZGVCOTVoQzJuWmwwdU5hVzZYUHk4RWZIT3NEaWIyNkgxb3hodkZ1VDFqUEhtSlZOYV9FOG9fTjZfajlSMS16UG5vTVp6NU5ZWjc5N1MzNA?oc=5",
+   "source": "IndexBox",
+   "published": "2026-10-19",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Automotive Personal Assistance System Market Forecast to 2035: Growth Driven by Software-Defined Vehicle Demand IndexBox",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "b3833c7e072b",
+   "title": "Cerence AI Named Growth and Innovation Index Leader in Frost Radar™ for AI-Powered In-Car Assistants - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUTNIbHFORXJGbDVpZVhzYk9qVWhnQTU5bkJ0NEJ4R3ZNTmE0WG5fQ2JQQnBYcXY1UkY2ODNQSkNPRkZ1VW5wMUxHeTlEemNSelllcm9SYjU1TlAzdDVzbGhMX254ZVZMb1dpLXJGbFR0WGE2c2ZTMktIcTVRcjNSU3pDRVk0YzlvOC1wbGZRVU1xUmQxU0w0bTNqRVpWcEU?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-19",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Cerence AI Named Growth and Innovation Index Leader in Frost Radar™ for AI-Powered In-Car Assistants Yahoo Finance",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "ef3dd7096b9b",
+   "title": "Your car's weakest spot may not be in the car - Tech Xplore",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xTlgyaERlQWRTeEptOUF3SE9uRERLbzVYV2duQWl6UnYyelBvTHJ4Y3U5N24xZkFRZjJBaEhWWVp0bVQ0MFpYcjVoX2EwNmRyUnVycFA1am1SZVl2b2wxSHRB?oc=5",
+   "source": "Tech Xplore",
+   "published": "2026-10-19",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Your car's weakest spot may not be in the car Tech Xplore",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
    "category": "Telematics & privacy",
    "heat": 9,
    "published": "2026-10-18",
@@ -13,6 +133,18 @@
    "url": "https://it4sec.substack.com/p/a-car-hackers-gold-mine-for-connected",
    "whyItMatters": "It’s effectively a published attack-surface map of OEM backends and third-party telemetry partners, which is where the biggest recent car breaches have come from.",
    "id": "s2026-10-18-21-vehicles"
+  },
+  {
+   "id": "839e76a76767",
+   "title": "Oil, debt and the coming reset in car values – and what it means for EVs - The Driven",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX3p4REdNNHlhaEhNMm43b01TTXBDM1IwRmZRTVpkQUdSSThZQTZuSDZiVFBJdXBBVFFxSlQ0Zm1ZZVNBY2dKSjBUbkxEMjRMRzEtcjFOT204ZnlGblcyb3dZblM2U2JMbGNVT1d2WGNVV0o1UUhvZHV3XzFvYmZlWWFIREY4Y0M5b1JIUUY5eDBVVWJRdXpZbG9BM1JxUkRGcmF2bQ?oc=5",
+   "source": "The Driven",
+   "published": "2026-10-18",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Oil, debt and the coming reset in car values – and what it means for EVs The Driven",
+   "whyItMatters": "",
+   "researchAngle": ""
   },
   {
    "category": "Supply chain & dealers",
@@ -194,5 +326,18 @@
    "whyItMatters": "It’s the industry’s most-cited annual baseline and shapes OEM budgets and regulatory talking points.",
    "id": "s2026-02-18-upstream"
   }
+ ],
+ "seen": [
+  "0dfa738d1635",
+  "d8c82556c6d3",
+  "9e57ed1bc6e8",
+  "0fb47f221d54",
+  "9b8d2f351390",
+  "b3833c7e072b",
+  "55c789fcb61f",
+  "5eddcbae6ab5",
+  "ef3dd7096b9b",
+  "4c78cd743c3a",
+  "839e76a76767"
  ]
 }
