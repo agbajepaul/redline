@@ -1,7 +1,79 @@
 {
- "lastUpdated": "2026-10-20",
+ "lastUpdated": "2026-10-21",
  "briefing": "The hottest thread this month is the radio layer: a WOOT ’26 paper showed rogue-base-station and silent-SMS attacks on production Teslas, and a new study mapped where 21 connected cars send their data. Charger security keeps producing high-severity bugs, and perception attacks on LiDAR and cameras are heading to VehicleSec in Baltimore. On the threat side, VicOne says in-vehicle systems overtook enterprise IT as the most-hit target in Q3.",
  "stories": [
+  {
+   "id": "07ccf77f7dfd",
+   "title": "Make the Adversary Spend More Energy: Generative Deception against Language-Model Attackers in Critical Infrastructure",
+   "url": "https://arxiv.org/abs/2610.27739",
+   "source": "arXiv cs.CR",
+   "published": "2026-10-21",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "arXiv:2610.27739v1 Announce Type: new Abstract: Language-model attackers consume computational resources as they explore and interact with a target, creating an opportunity for cyber deception to impose costs. Whether such engagements favor the defender requires measuring both sides. We evaluate an autonomous language-model attacker against a decoy that uses a defending language model to analyze a",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "35437d8eaf98",
+   "title": "WaveCommitments: Private and Verifiable Speech-Agent Marketplaces",
+   "url": "https://arxiv.org/abs/2610.26867",
+   "source": "arXiv cs.CR",
+   "published": "2026-10-21",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "arXiv:2610.26867v1 Announce Type: cross Abstract: Modern speech systems are evolving into ecosystems of autonomous speech agents that speak together, negotiate, and trade assets such as embeddings, spectrograms, or raw data. In such markets, sellers cannot reveal assets for evaluation due to privacy constraints, and buyers cannot price what they cannot test. Thus, we open-source WaveCommitments, a",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "0c5978d3c955",
+   "title": "AUTOCRYPT Named 2026 Automotive Cybersecurity Company of the Year - THE ELEC, Korea Electronics Industry Media",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IVjZGTEZ4ci1jUjFjODRPZndmcTc1ckRnMTlWYkJMYU1ick5odklyTFBENExIWlBlVWZCUVJsbDFvZEs5STl6NHhZdVlpR0dsbUZMc3R0Um5zMXF4RDA4OFBvZktWdU0?oc=5",
+   "source": "THE ELEC, Korea Electronics Industry Media",
+   "published": "2026-10-21",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "AUTOCRYPT Named 2026 Automotive Cybersecurity Company of the Year THE ELEC, Korea Electronics Industry Media",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "3a536b4b785a",
+   "title": "Connected-car vulnerabilities shift toward cloud services - Bioengineer.org",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN0lna1djczNXM1NzdER5b2ZhWUFFVFVzSjJUbURqNTZub3AxeUE0VFpHaEFXcUlFQzJ0T0V5Rjd0Ty1xNks0WUxZTzlaM3FEYTFUWmNQRVZGaFh2ZVR1T1hwd21TQTFieXNFbFRrNkRjaXNYaEZFMmNabGl2eDg5amtQVkdjc09UMWc?oc=5",
+   "source": "Bioengineer.org",
+   "published": "2026-10-21",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Connected-car vulnerabilities shift toward cloud services Bioengineer.org",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "9190ed769002",
+   "title": "Automakers step up cybersecurity, software and AI-led mobility investments - ET Auto",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWWUyaHR2Y0pBUFBxNkdHYVYzeGFvaDJZY3JUWnYwWjNHQjlnLUVRSUlCNE5GX1lJM3BJUTRVNVJZdjBfb2hSY0l4U2E5T0tQTW5iLWZib2dnWnNVR05uWWxwWVVXdUs5dnZoOFdJRWFEREpqNHNtbFdXT3l0VTdJQS1BcTU5ZklDaFVpTkhZcC1kMkdodnBVdnBsQThvWVNFWWxfdlkwRGVXQ2M5dm1kMGdPaFJiUWJDTlBvOGtyaDRtQTFjUEdlV2I0QVpqZ0xEb0ZTMV96NmIybld5ODdZ0gHfAUFVX3lxTE9ZZTJodHZjSkFQUHE2R0dhVjN4YW9oMlljclRadjBaM0dCOWctRVFJSUI0TkZfWUkzcElRNFU1Ull2MF9vaFJjSXhTYTlPS1BNbmItZmJvZ2dac1VHTm5ZbHBZVVd1Szl2dmg4V0lFYURESmo0c21sV1dPeXRVN0lBLUFxNTlmSUNoVWlOSFlwLWQyR2h2cFV2cGxBOG9ZU0VZbF92WTBEZVdDYzl2bWQwZ09oUmJRYkNOUG84a3JoNG1BMWNQR2VXYjRBWmpnTERvRlMxX3o2YjJuV3k4N1k?oc=5",
+   "source": "ET Auto",
+   "published": "2026-10-21",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Automakers step up cybersecurity, software and AI-led mobility investments ET Auto",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "3872184393fe",
+   "title": "Your car’s weakest spot may not be in the car - Göteborgs universitet",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IQmFsN3huNWl2RkRHOGdJNFlUQVhWMXg3N212NmcwS1FrdUxLdFczencwN0RxUXUxeUllTVJlSEI3YW5tWHA0VW54YUdUb21FTEZBYWNxOFJmZmIzZmpkTkd5alIxZGZLenFqVmdwMS1jcER1NElVSkJ3?oc=5",
+   "source": "Göteborgs universitet",
+   "published": "2026-10-21",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Your car’s weakest spot may not be in the car Göteborgs universitet",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
   {
    "id": "0fb47f221d54",
    "title": "NIOCIS: Typed-Decision Next-Hop Routing with Node-Conditioned Option Spaces for Tool-Use Agents",
@@ -338,6 +410,12 @@
   "5eddcbae6ab5",
   "ef3dd7096b9b",
   "4c78cd743c3a",
-  "839e76a76767"
+  "839e76a76767",
+  "07ccf77f7dfd",
+  "35437d8eaf98",
+  "0c5978d3c955",
+  "3a536b4b785a",
+  "9190ed769002",
+  "3872184393fe"
  ]
 }
