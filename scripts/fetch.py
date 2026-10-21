@@ -185,6 +185,21 @@ def heuristic(cands):
     return stories, ""
 
 
+def auto_briefing(new):
+    """Plain summary written from the day's results (used when Claude isn't scoring)."""
+    if not new:
+        return "No new stories today. Below are the latest from previous days."
+    top = max(new, key=lambda s: s.get("heat", 0))
+    counts = {}
+    for s in new:
+        counts[s["category"]] = counts.get(s["category"], 0) + 1
+    busiest, n = max(counts.items(), key=lambda kv: kv[1])
+    lead = f"{len(new)} new {'story' if len(new) == 1 else 'stories'} today."
+    hot = f" Top heat: \u201c{top['title']}\u201d ({top['heat']}/10, {top['category']})."
+    busy = f" Busiest topic: {busiest} ({n})." if n > 1 else ""
+    return lead + hot + busy
+
+
 # ---------- Claude scorer ----------
 PROMPT = """You curate a daily vehicle cybersecurity digest for a security researcher who wants the juicy, technically meaty stories that could lead to research ideas.
 
@@ -251,17 +266,17 @@ def main():
     cands = collect(set(existing) | set(seen))
     log(f"{len(cands)} new candidates")
 
-    new, briefing = [], old.get("briefing", "")
-    if cands:
-        if os.environ.get("ANTHROPIC_API_KEY"):
-            try:
-                new, b = with_claude(cands)
-                briefing = b or briefing
-            except Exception as ex:  # noqa: BLE001
-                log(f"[warn] Claude scoring failed ({ex}); using keyword scorer")
-                new, _ = heuristic(cands)
-        else:
-            new, _ = heuristic(cands)
+    new, briefing = [], ""
+    if cands and os.environ.get("ANTHROPIC_API_KEY"):
+        try:
+            new, briefing = with_claude(cands)
+        except Exception as ex:  # noqa: BLE001
+            log(f"[warn] Claude scoring failed ({ex}); using keyword scorer")
+            new, briefing = [], ""
+    if cands and not new and not briefing:
+        new, _ = heuristic(cands)
+    if not briefing:
+        briefing = auto_briefing(new)
 
     cutoff = (datetime.now(timezone.utc) - timedelta(days=KEEP_DAYS)).date().isoformat()
     merged = {**existing, **{s["id"]: s for s in new}}
