@@ -1,7 +1,67 @@
 {
- "lastUpdated": "2026-10-21",
- "briefing": "No new stories today. Below are the latest from previous days.",
+ "lastUpdated": "2026-10-22",
+ "briefing": "7 new stories today. Top heat: “Does Client Diversity Protect the Lightning Network? Evidence from the 2026 Core Lightning Shutdown” (4/10, Threat reports). Busiest topic: Threat reports (4).",
  "stories": [
+  {
+   "id": "6f8e21d8376b",
+   "title": "Does Client Diversity Protect the Lightning Network? Evidence from the 2026 Core Lightning Shutdown",
+   "url": "https://arxiv.org/abs/2610.20952",
+   "source": "arXiv cs.CR",
+   "published": "2026-10-22",
+   "category": "Threat reports",
+   "heat": 4,
+   "summary": "arXiv:2610.20952v2 Announce Type: replace Abstract: Client diversity is often cited as the Lightning Network's defence against a bug in any one implementation, yet LND runs 80% of public nodes (84% counting one operator's fleet of about 2,000 tiny nodes) and holds 84% of public channel capacity, a capacity share that has barely moved since 2023. We test what diversity buys with a natural experimen",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "f5bfc659cd58",
+   "title": "Prompt Injection Through Forensic Evidence: A Taxonomy and Proof of Concept of Anti-Forensic Attacks on LLM-Assisted Digital Investigations",
+   "url": "https://arxiv.org/abs/2610.29747",
+   "source": "arXiv cs.CR",
+   "published": "2026-10-22",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "arXiv:2610.29747v1 Announce Type: new Abstract: Large language models (LLMs) are entering digital forensics as examination assistants and autonomous agents. Digital forensics inverts the usual setting for indirect prompt injection: the evidence under analysis is attacker-controlled by definition, and the examiner is obliged to read it closely. This makes the reasoning layer a new anti-forensic tar",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "c3da4b0ceffe",
+   "title": "Closing the Sim-to-Real Gap: An Evaluation Framework for Autonomous Cyber Defense Configuration of Commercial EDR",
+   "url": "https://arxiv.org/abs/2606.08168",
+   "source": "arXiv cs.CR",
+   "published": "2026-10-22",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "arXiv:2606.08168v2 Announce Type: replace Abstract: Leading commercial endpoint detection and response (EDR) products have shifted from operator-configured rule sets to multi-component systems where autonomous AI components operate alongside, and increasingly in place of, operator-deployed policies. Autonomous defense agents using commercial EDR as their hardening tool are no longer tuning a passi",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "1ac784b239de",
+   "title": "Mobileye Achieves First TÜV SÜD Inspection Certificate for ADAS Development - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTGN5OVkyTGJtbWUwMnFTeTRiVVkxLS1HaE5xc18tc3IzT3pPNW5xcW9WY1NzTnpVbjFoV1JLYWdPX3BuVUVMcVFhbjBZa1l1c1NRVklqV1ZLTDFKY3ZOVndJVVZTQXFtZTFnaHVPU29Pd0V6U3U1R0VULVFmWjFCemRQZUVwNlZyTkVtSDNZanlQelpYQlE?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-22",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "Mobileye Achieves First TÜV SÜD Inspection Certificate for ADAS Development Yahoo Finance",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "36c0cbf25069",
+   "title": "Your Car Is Becoming A Computer on Wheels: The Hidden Technology Behind Modern Driving - Geek Vibes Nation",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmY0wzTDRNOVY1d2hEUkJid2hXY1RkZkt5bVZHQzh2cUFrbnF4dGdaaTlSUlpyQVRvVUFGZWM1U0xjV0ROR0xULTMyUk1hdHdBVWZEMmdZMjdSTk5ZVE1qcG1rcWFsQmkwYi1HdU96bW05RnFrbFJ4NA?oc=5",
+   "source": "Geek Vibes Nation",
+   "published": "2026-10-22",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Your Car Is Becoming A Computer on Wheels: The Hidden Technology Behind Modern Driving Geek Vibes Nation",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
   {
    "id": "07ccf77f7dfd",
    "title": "Make the Adversary Spend More Energy: Generative Deception against Language-Model Attackers in Critical Infrastructure",
@@ -71,6 +131,18 @@
    "category": "Threat reports",
    "heat": 3,
    "summary": "Your car’s weakest spot may not be in the car Göteborgs universitet",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "ad6ed21bf56b",
+   "title": "Your car’s smartest features are opening doors for hackers - New Atlas",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzamtuZlhUSTAwSTRXRjZnNjFlTzJ5MDVwSWtwbndDMGdSZEYzb0FSZjdjcW9SZ3hNS181MnNuMHpKQkdYWHBYVXRiQ0d4X29ReWNSRGRlWDlWOU5RLXFyYmlIMm5CSnp0OGZaaWhn?oc=5",
+   "source": "New Atlas",
+   "published": "2026-10-21",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Your car’s smartest features are opening doors for hackers New Atlas",
    "whyItMatters": "",
    "researchAngle": ""
   },
@@ -155,6 +227,18 @@
    "category": "Threat reports",
    "heat": 3,
    "summary": "Aiman Khan questions flying-car obsession as climate crisis worsens The Express Tribune",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "e5bb3986cde1",
+   "title": "Auto tech startup claims it traced hack attempt back to rival's IP address - The Register",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVHlZN1E1cDJqNEFHSFg3U1hCbnZRdFhtdk11blVLd2d2dUNIVkYxUG1xd0NIWjdNZGNVMHJvalh4SEM2cTJhclMzWHRyR0thRWJDMHFNUWcwNHAza21ybFYxV1Zyd2ZoaHRORmRtdGxBbWlSWk1UUnllQVp2dGFCVlFjcE0yOG1OaW9hdGhRb0lpS25LeUZFc2pKem5QaGVnZ0pLNExzeDdUOGNERVM2andndkh4LW5JWDdaSGhqQmZxOFMtb283aDFIWkE?oc=5",
+   "source": "The Register",
+   "published": "2026-10-20",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Auto tech startup claims it traced hack attempt back to rival's IP address The Register",
    "whyItMatters": "",
    "researchAngle": ""
   },
@@ -416,6 +500,13 @@
   "0c5978d3c955",
   "3a536b4b785a",
   "9190ed769002",
-  "3872184393fe"
+  "3872184393fe",
+  "f5bfc659cd58",
+  "c3da4b0ceffe",
+  "6f8e21d8376b",
+  "1ac784b239de",
+  "36c0cbf25069",
+  "ad6ed21bf56b",
+  "e5bb3986cde1"
  ]
 }
