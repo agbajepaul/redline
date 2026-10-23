@@ -1,7 +1,31 @@
 {
- "lastUpdated": "2026-10-22",
- "briefing": "7 new stories today. Top heat: “Does Client Diversity Protect the Lightning Network? Evidence from the 2026 Core Lightning Shutdown” (4/10, Threat reports). Busiest topic: Threat reports (4).",
+ "lastUpdated": "2026-10-23",
+ "briefing": "5 new stories today. Top heat: “MCP vs CLI for AI Agents: A Comparative Analysis of Tool Integration Strategies for Autonomous Systems” (3/10, AV perception & AI). Busiest topic: Threat reports (3).",
  "stories": [
+  {
+   "id": "034f91c7a6ef",
+   "title": "MCP vs CLI for AI Agents: A Comparative Analysis of Tool Integration Strategies for Autonomous Systems",
+   "url": "https://arxiv.org/abs/2610.30157",
+   "source": "arXiv cs.CR",
+   "published": "2026-10-23",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "arXiv:2610.30157v1 Announce Type: cross Abstract: AI agents require interfaces to interact with external systems such as files, APIs, databases, and cloud services. Two competing paradigms have emerged: CLI (Command Line Interface), where agents execute shell commands directly, and MCP (Model Context Protocol), a structured JSON-RPC protocol providing governed, typed tool access. This paper presen",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "d41b24c64e03",
+   "title": "Could Your Car Actually Outlive Its Software Support? - CarScoops",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sNDd4VzYtR3ZYdVJiczZNRDlBckxEU3dTNG94VTZnRHRkb0VxZ2h2aDU1Wl9qdVE4V3pvcFNyLVoyZVlBZk13YXpNbHlaazZrU0hmMlN1ZkE5Q1VGN3VhUDlxa1I5RmQ0Q0xHN0VIVmJPeHRHWWxwRFdR?oc=5",
+   "source": "CarScoops",
+   "published": "2026-10-23",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Could Your Car Actually Outlive Its Software Support? CarScoops",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
   {
    "id": "6f8e21d8376b",
    "title": "Does Client Diversity Protect the Lightning Network? Evidence from the 2026 Core Lightning Shutdown",
@@ -59,6 +83,30 @@
    "category": "Threat reports",
    "heat": 3,
    "summary": "Your Car Is Becoming A Computer on Wheels: The Hidden Technology Behind Modern Driving Geek Vibes Nation",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "b0d3188f50fc",
+   "title": "Raising awareness on vehicle data collection in Ohio - Spectrum News",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeS1iR190Ulp1akZpT29DaEQ2cVVwM1pPQWJ2eFlsZGJfcEp3OGJwR0RuN1daSGdvalhDWHI3RzNQT252ekJjQmxvMnE1QkEyeGlpQW1pOHE5Nl9LT1EteGF1ekRXXzZxOEFjdFJFUFdkUnRyWFF6c0JRMjBUai1yTks0S0MzdlNxX0tlN2FRbS0zMHpxdkFUazh6bWdJbFRCOWE4QVJsZkVRQ1ZUb1NOOG53OA?oc=5",
+   "source": "Spectrum News",
+   "published": "2026-10-22",
+   "category": "Telematics & privacy",
+   "heat": 3,
+   "summary": "Raising awareness on vehicle data collection in Ohio Spectrum News",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "fee137e3d609",
+   "title": "Why Do Car Software Developers Lose So Much Time, Per BlackBerry (TSX:BB)? - Kalkine Media",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZndqTkwxRjBGMXZ3UEM0bnpyRTQtVVpDbUNRZWpFUDJYOUZoVmVuaHlfWTJ0TnlYV3g1MWFFakxYNkRLSUM4ek9RQW5HWVJELXU3YjhIYVozOHNGRHZXRGJpbzBud0FMVUtVV2puYTl3MWM4OFJtV3g0cU0xRXpvYTh2Y1ZrUmxKaVYwczJOa2ZqS2ZSN0MtTEtkamdhU0JYRkpFY1RrS2YtblptQUoyZ0V6bUd3UQ?oc=5",
+   "source": "Kalkine Media",
+   "published": "2026-10-22",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Why Do Car Software Developers Lose So Much Time, Per BlackBerry (TSX:BB)? Kalkine Media",
    "whyItMatters": "",
    "researchAngle": ""
   },
@@ -143,6 +191,18 @@
    "category": "Threat reports",
    "heat": 3,
    "summary": "Your car’s smartest features are opening doors for hackers New Atlas",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "e558057f6968",
+   "title": "Your car’s weakest spot may not be in the car - Chalmers tekniska högskola",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPamk2bkZLRmkzbE91bkViTkhqXy1pWTJCcm5zY1QteXRoUkxvREowd2otSkxOZnRwV3NTYWV2aldFS1h0TUR0OHRlN25waFpUcDNLek56VmgzREEySjJscGx5TlV5UUpZTE53ZVNZQ3l2UnhjbW9PQWV2WFNVdDI3c3RVdUJiVEpjd3ZfbjZSM2RoX1Jn?oc=5",
+   "source": "Chalmers tekniska högskola",
+   "published": "2026-10-21",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Your car’s weakest spot may not be in the car Chalmers tekniska högskola",
    "whyItMatters": "",
    "researchAngle": ""
   },
@@ -507,6 +567,11 @@
   "1ac784b239de",
   "36c0cbf25069",
   "ad6ed21bf56b",
-  "e5bb3986cde1"
+  "e5bb3986cde1",
+  "034f91c7a6ef",
+  "b0d3188f50fc",
+  "d41b24c64e03",
+  "fee137e3d609",
+  "e558057f6968"
  ]
 }
