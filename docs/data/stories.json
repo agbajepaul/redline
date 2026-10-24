@@ -1,7 +1,19 @@
 {
- "lastUpdated": "2026-10-23",
- "briefing": "5 new stories today. Top heat: “MCP vs CLI for AI Agents: A Comparative Analysis of Tool Integration Strategies for Autonomous Systems” (3/10, AV perception & AI). Busiest topic: Threat reports (3).",
+ "lastUpdated": "2026-10-24",
+ "briefing": "4 new stories today. Top heat: “Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions” (4/10, AV perception & AI). Busiest topic: Threat reports (2).",
  "stories": [
+  {
+   "id": "015a882ee274",
+   "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
+   "url": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
+   "source": "The Hacker News",
+   "published": "2026-10-23",
+   "category": "AV perception & AI",
+   "heat": 4,
+   "summary": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the operation is an \"Autonomous Red Team Kill Chain Framework\" referred to as Phantom. The threat actor is assessed to be Russian-speaking and functions both as an intrusion and data-extortion operator, as well as an",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
   {
    "id": "034f91c7a6ef",
    "title": "MCP vs CLI for AI Agents: A Comparative Analysis of Tool Integration Strategies for Autonomous Systems",
@@ -23,6 +35,42 @@
    "category": "Threat reports",
    "heat": 3,
    "summary": "Could Your Car Actually Outlive Its Software Support? CarScoops",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "32bc716ba093",
+   "title": "Cybersecurity Awareness Month 2026: Why It's Time for the Automotive Industry to Check Under the Hood - Baker Donelson",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMGF2ZTFIbjVjVF9xZTVBczBOVk9kR2tFN3ZEQzFHZmZ2WktSdjgxNkNrR1JsX0ZqZk9FaVVsRXdKcGFvWXE0SnU2cnkyLXlqeU1ydnA1XzJ4SzlvbnZ5aE9zWFN1RzRfYVRLYmhCTFBfU1NsTEV5dXhVREE3el8wNEFnWEZMbV9ob1p5Yzg5TFFoWEpYSzY1OW54cXRDdzdYSldDT185UTJFZVRjOVpwS2FIUGtwbDBXeUhQaFZQWnllWjRBSmgyOA?oc=5",
+   "source": "Baker Donelson",
+   "published": "2026-10-23",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Cybersecurity Awareness Month 2026: Why It's Time for the Automotive Industry to Check Under the Hood Baker Donelson",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "ee0d621f0310",
+   "title": "Volkswagen Lobbying Jumps Amid Connected Vehicle, Repair Bills - Legis1",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpcGpXdldWSGJhU1ZLci1xSzlPdUJMMGlaZk1mSmpwZjAwd0VDbUZpdXJ0X2VMbENBREhCdWRDemxaNVlhSHBsazNqLXFhT0JxQkNxRGFCQWI1NnlsTS1yd21zR1lTZGVidVpncmE2TGtEb0tVczY4Ug?oc=5",
+   "source": "Legis1",
+   "published": "2026-10-23",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Volkswagen Lobbying Jumps Amid Connected Vehicle, Repair Bills Legis1",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "6aee904b7a86",
+   "title": "Gottheimer reintroduces bipartisan bill to combat organized auto theft rings - WRNJ Radio",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSnY3YmFaWklJVEoxTzFHeE9uaFg1M2VULXdwd3N1RGhjRlZSYkxveUJtMFVGUWtuSFZUb1NGbzRkcVA4dVdYSlFWTXFhNTQ0bVpxUnFRVk5LdWlrMFA0cDFoanp0QW8zS05uc3V0eUxuZnhvaU1CN1pkRV9wRGlDa3ZLU2ZqSm1PSW9YdVVSV1RKcUdvWGZuSHFUZC1TcnZF?oc=5",
+   "source": "WRNJ Radio",
+   "published": "2026-10-23",
+   "category": "Policy & regulation",
+   "heat": 3,
+   "summary": "Gottheimer reintroduces bipartisan bill to combat organized auto theft rings WRNJ Radio",
    "whyItMatters": "",
    "researchAngle": ""
   },
@@ -572,6 +620,10 @@
   "b0d3188f50fc",
   "d41b24c64e03",
   "fee137e3d609",
-  "e558057f6968"
+  "e558057f6968",
+  "015a882ee274",
+  "32bc716ba093",
+  "ee0d621f0310",
+  "6aee904b7a86"
  ]
 }
