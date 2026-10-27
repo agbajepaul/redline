@@ -1,7 +1,115 @@
 {
- "lastUpdated": "2026-10-26",
- "briefing": "12 new stories today. Top heat: “AgentTrace: Execution-Level Fingerprinting of Black-Box LLM Agents” (3/10, AV perception & AI). Busiest topic: AV perception & AI (7).",
+ "lastUpdated": "2026-10-27",
+ "briefing": "11 new stories today. Top heat: “From Caveman to COBA: Coordinated Optimization-Based Attacks on Grid-Edge Smart Inverters in DER-Rich Power Systems” (4/10, Threat reports). Busiest topic: Threat reports (4).",
  "stories": [
+  {
+   "id": "683e4a3e1834",
+   "title": "From Caveman to COBA: Coordinated Optimization-Based Attacks on Grid-Edge Smart Inverters in DER-Rich Power Systems",
+   "url": "https://arxiv.org/abs/2610.33401",
+   "source": "arXiv cs.CR",
+   "published": "2026-10-27",
+   "category": "Threat reports",
+   "heat": 4,
+   "summary": "arXiv:2610.33401v1 Announce Type: new Abstract: Aggregation platforms and smart-inverter control channels can allow a compromised coordination layer to alter active- and reactive-power commands across a geographically distributed DER fleet. This paper introduces the Coordinated Optimization-Based Attack (COBA), which uses network information and location-specific DER P/Q setpoints to maximize ther",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "7f1e3bb45fab",
+   "title": "TRACER: An RDC-Triggered Trajectory Recovery Framework for Cyberattack-Resilient Adaptive Cruise Control",
+   "url": "https://arxiv.org/abs/2610.33052",
+   "source": "arXiv cs.CR",
+   "published": "2026-10-27",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "arXiv:2610.33052v1 Announce Type: new Abstract: The increasing connectivity of adaptive cruise control (ACC) systems exposes vehicle-state information to cyberattacks, potentially causing irrational car-following behavior and unsafe longitudinal dynamics. Existing trajectory recovery methods generally lack an interpretable criterion for recovery activation and remain vulnerable to attack-induced d",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "130e8d98fd8b",
+   "title": "Alignment of Autonomous Cyber Defense Agents via Adaptive Policy Shaping",
+   "url": "https://arxiv.org/abs/2610.33234",
+   "source": "arXiv cs.CR",
+   "published": "2026-10-27",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "arXiv:2610.33234v1 Announce Type: new Abstract: Cybersecurity operators increasingly encounter sophisticated and fast-paced attacks, making autonomous cyber defense (ACD) a critical approach for supporting timely and effective decision-making. Reinforcement learning (RL)-based ACD agents have the ability to autonomously observe network states and take actions to defend and recover system assets, m",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "8b3d920859fd",
+   "title": "Security evaluation of 6G-oriented and O-RAN networks through targeted attacks",
+   "url": "https://arxiv.org/abs/2610.33526",
+   "source": "arXiv cs.CR",
+   "published": "2026-10-27",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "arXiv:2610.33526v1 Announce Type: new Abstract: The sixth generation (6G) of networks is supported by increased bandwidth, automation through the use of O-RAN technologies. Simultaneously though autonomous operation leads to an extensive threat surface and sophisticated attacks. Understanding the attack impact, the Tactics, Techniques and Procedures that are used by attackers is extremely challeng",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "b9dd8032dd0c",
+   "title": "LLM WikiLeaks: Uncovering URL-Based Capability Extension and Security Circumvention in Agentic Message Boards",
+   "url": "https://arxiv.org/abs/2610.34542",
+   "source": "arXiv cs.CR",
+   "published": "2026-10-27",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "arXiv:2610.34542v1 Announce Type: new Abstract: Autonomous agents have been observed acting beyond their assigned tasks, accessing unauthorized systems, and establishing communication channels to exchange information, yet the Web and network-level techniques they use to extend their capabilities and circumvent security restrictions remain poorly understood. We study these techniques through the Pr",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "a49d4fc5b382",
+   "title": "PRISMA: Differentially Private Synthetic In-Car Telemetry via Differentiable Simulation",
+   "url": "https://arxiv.org/abs/2610.35521",
+   "source": "arXiv cs.CR",
+   "published": "2026-10-27",
+   "category": "Telematics & privacy",
+   "heat": 3,
+   "summary": "arXiv:2610.35521v1 Announce Type: new Abstract: Differentially private synthesis of in-car energy consumption data is challenging because the output is high-dimensional, and known lower bounds show that the privacy-utility trade-off degrades with the square root of the number of output dimensions. However, we observe that the intrinsic dimensionality of in-car energy consumption is much lower than",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "48236c9904cf",
+   "title": "A Category-Selective Encryption Framework for Privacy Protection of UAV Images",
+   "url": "https://arxiv.org/abs/2610.35729",
+   "source": "arXiv cs.CR",
+   "published": "2026-10-27",
+   "category": "Telematics & privacy",
+   "heat": 3,
+   "summary": "arXiv:2610.35729v1 Announce Type: new Abstract: Imagery captured by unmanned aerial vehicle (UAV) systems increasingly raises privacy concerns, as UAV aerial surveillance routinely captures sensitive objects such as pedestrians and vehicles alongside ordinary scene content. Existing privacy-preserving approaches typically employ class-agnostic saliency detection to indiscriminately obfuscate all v",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "d44648413489",
+   "title": "Can Agentic Code Review Catch Vulnerabilities Before They Are Merged?",
+   "url": "https://arxiv.org/abs/2610.33509",
+   "source": "arXiv cs.CR",
+   "published": "2026-10-27",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "arXiv:2610.33509v1 Announce Type: cross Abstract: LLM agents have been increasingly adopted for security-focused code review, but existing benchmarks mostly derive the reviewed changes from their later fixes instead of the real-world bug-introducing commits. In this paper, we present SecPRBench, the first comprehensive benchmark for evaluating agentic security review on validated real-world code c",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "94a91d4404c1",
+   "title": "Why most auto professionals expect SDVs to become cyberattack targets within 3 years - Automotive News",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ3dkNmpUbnZGMU9COHRXUTNnNVJTMlBBRDlmenFUR1ZVSlU3d0pqWG1YUU1DbkJtNV8zaTB6MFVaR1dhVXpDeVltYmhBVGpnZHNwYWFiY0xJMGJIWDRGMHRIQWVIUFRqYVVUeG5LQmdqVkRPTkhUVEtvQXZnZ2pNZUQyZw?oc=5",
+   "source": "Automotive News",
+   "published": "2026-10-27",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Why most auto professionals expect SDVs to become cyberattack targets within 3 years Automotive News",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
   {
    "id": "100f3b8940ab",
    "title": "AgentTrace: Execution-Level Fingerprinting of Black-Box LLM Agents",
@@ -131,6 +239,30 @@
    "category": "Threat reports",
    "heat": 3,
    "summary": "E100 Fuel In India: What The New Motor Vehicle Rules Mean For Car Owners ETV Bharat",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "6e52c8045113",
+   "title": "Automotive cybersecurity guide details threats, standards and controls - Global Sources",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOT1hYeVh0ZkFTZ1BuMG5aYm81TXF6Q1B4bFV6UDNPS0Ria3RNdVVVRGlpU1NMSXBNMjk4MVJtUkExSzFCOXViTTdGcllRQWxUYjVNcXE1UFRRM1d1NzMzM2VEMVdVdTZLeFZDUkNvQ2FtMnFhRE53eEYwVTZCdEpCWm04QkhfYVBQcVJ3OG9sMzZ6SnM4dmFqS25acGY0Q2hUTWw4WmJMTnBlZ2ZTOWhucHY4SlRYRWkzVWk0cHhtQThyanpHMXpUUnJzRjg0aEk3eHc?oc=5",
+   "source": "Global Sources",
+   "published": "2026-10-26",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Automotive cybersecurity guide details threats, standards and controls Global Sources",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "98aadb5d9980",
+   "title": "AUTOCRYPT Highlights V2X Security Technologies and C-ITS Research Initiatives at ITS World Congress 2026 - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNeVprNzhXZWtRTGxUNUkxdmZTVnF0alpyWDZUWk56Njc1eHd6RUFsRjBzNENtZkIwd1czQ25HSFZ6QU56TGY4Yk1neXlkUXlxN3BreG92R0tfU0pGTng2d0VJRHJVaXRGVWtWVWEwTlpkX0o4bFpsSHVjdzk0WmNKX21JMG56eGkyb3o5R0tPcHRjcjZuMHRrcmlTeE9GQnFvY0szakd6YWJHeF9oSWJDMXhkUzdHYy1qTlV5d2RmWllRLVVYUERXNlF0VGdjOS1KRXRwRnAyX24wbV8tMWV2R1FsQ0FDWnBBTm1ZdUtPeVRhZUdCTkFxRQ?oc=5",
+   "source": "TradingView",
+   "published": "2026-10-26",
+   "category": "Cellular & radio",
+   "heat": 3,
+   "summary": "AUTOCRYPT Highlights V2X Security Technologies and C-ITS Research Initiatives at ITS World Congress 2026 TradingView",
    "whyItMatters": "",
    "researchAngle": ""
   },
@@ -780,6 +912,17 @@
   "dfae9a8a4573",
   "e2b32f17d249",
   "28e81b2c970f",
-  "f50c98ccd2e3"
+  "f50c98ccd2e3",
+  "7f1e3bb45fab",
+  "130e8d98fd8b",
+  "683e4a3e1834",
+  "8b3d920859fd",
+  "b9dd8032dd0c",
+  "a49d4fc5b382",
+  "48236c9904cf",
+  "d44648413489",
+  "94a91d4404c1",
+  "6e52c8045113",
+  "98aadb5d9980"
  ]
 }
