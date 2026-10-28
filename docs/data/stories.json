@@ -1,7 +1,103 @@
 {
- "lastUpdated": "2026-10-27",
- "briefing": "11 new stories today. Top heat: “From Caveman to COBA: Coordinated Optimization-Based Attacks on Grid-Edge Smart Inverters in DER-Rich Power Systems” (4/10, Threat reports). Busiest topic: Threat reports (4).",
+ "lastUpdated": "2026-10-28",
+ "briefing": "12 new stories today. Top heat: “Long-Hidden Flaws Patched in EPICS Research Facility Control Software” (3/10, AV perception & AI). Busiest topic: Threat reports (9).",
  "stories": [
+  {
+   "id": "9ebc7f16e54c",
+   "title": "Long-Hidden Flaws Patched in EPICS Research Facility Control Software",
+   "url": "https://www.securityweek.com/long-hidden-flaws-patched-in-epics-research-facility-control-software/",
+   "source": "SecurityWeek",
+   "published": "2026-10-28",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "Four EPICS Base flaws found by an autonomous system could let attackers crash processes at particle accelerators and fusion labs. The post Long-Hidden Flaws Patched in EPICS Research Facility Control Software appeared first on SecurityWeek .",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "455ddd29674b",
+   "title": "Janus Vehicles: Entity-Centric Threat Modelling of Protocol-Conformant Vehicles under a Malicious-Manufacturer Assumption",
+   "url": "https://arxiv.org/abs/2610.37059",
+   "source": "arXiv cs.CR",
+   "published": "2026-10-28",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "arXiv:2610.37059v1 Announce Type: new Abstract: Automotive cybersecurity commonly assumes benign end-product manufacturers and design authorities, focusing on supply-chain threats, external attacks, and compromised network participants observable through misbehaviour. This assumption overlooks malicious-by-design vehicles that remain authentic and protocol-conformant while performing undeclared se",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "58076d801c97",
+   "title": "The Envelope Layer: An Underestimated Surface of LLM Agent Defense",
+   "url": "https://arxiv.org/abs/2610.37415",
+   "source": "arXiv cs.CR",
+   "published": "2026-10-28",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "arXiv:2610.37415v1 Announce Type: new Abstract: Prior work framed the envelope layer as the channel through which malicious content enters an agent, and established it as a defense surface independent of the LLM layer and the agent layer; however, that work only tested the envelope layer briefly and did not examine how label strength, envelope authenticity, scaffold differences, or existing memori",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "abe776f23576",
+   "title": "VicOne signs BlueBinaries for automotive cybersecurity - Automotive World",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWmNyQlhGaWNtZlUwbWhQc25xVEU2SzhQOTk2TVNwaGJLempCdlpvNENnMlZGUmp0ZzF5NXQxY29NVUlHN3dvLVhfcXFOazRKTWhVTEljVVJCTFF6T0tHVGJKXzNiWEtuLUJDYlFIRjNkWDRpRDIyQkRRcjh2a3ZuZ0hTZ21DTVVGNXdFVURCTk9qTmlHUzFn?oc=5",
+   "source": "Automotive World",
+   "published": "2026-10-28",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "VicOne signs BlueBinaries for automotive cybersecurity Automotive World",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "b07e60687895",
+   "title": "China and Germany agree to expand cooperation in intelligent connected vehicles - Global Sources",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUkZCZG9EZnpFb1I1eEpienAxZ3pDUnFVem11bm1GV0s3V2ZfWmR5T1M4X2Q2ZmcxVUhsWEpjS3gtRFh5U1EtU0RCME04eC1nd2FZVHk1STZXb3d4OHc1UFZXWGltcWdaUlI1b1FYTG4zRS12UjMzTHFrWHhOOGhPQ2NVVnFWWTJNZ3Zvc09JRXdFOVptcFRKOXhpNGptVElhZ0puUDJNTGFMYmhsdW5aMEE0OUpyS3k2SmpFbU9RNjUxNE9C?oc=5",
+   "source": "Global Sources",
+   "published": "2026-10-28",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "China and Germany agree to expand cooperation in intelligent connected vehicles Global Sources",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "c9e138e7a22d",
+   "title": "\"We’re Redefining Vehicular Security in Software Defined Vehicles\" — R.V. Raghu, Director, Versatilist Consulting India - ELE Times",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNzAzRURVbmZUdmx1c09LR201YlJ4SnVsZ1BaYTc3ZHlKNDFPUXRfWHBOTG9ZZ2wzcGpQaDNXOExuaTlHYUVQZ1NPdlVXM0ptcFVUM05YRE9FRVljamlxSzdyMmF2MWMzMFhTNHQ0NzJZM0tOazVaNEFyaVBnTjREQWdSVDRNdzJKZEZyNXMtVG1hOXU3MWJfU1RVcDN5eHJkVEZYTnh0cW9GamJhajJfNGZfaFF3NHlhUWIxNkZEcUpjbG16cTJwTXZUYUZSLU4y?oc=5",
+   "source": "ELE Times",
+   "published": "2026-10-28",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "\"We’re Redefining Vehicular Security in Software Defined Vehicles\" — R.V. Raghu, Director, Versatilist Consulting India ELE Times",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "3fe16095dfda",
+   "title": "Colmobil cyberattack exposes vulnerabilities in Israel’s connected-car ecosystem - CTech",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SWDNBTlU2eV9qNnVmVGNNbnVCb0hJN2NNQTJoLTNJMWxYTHZobzVvR1pheTJDNFA5bVV2RFlPWjhOYUp5SUQ4STlaS0E4eTJScHo0QktpQUhwa1l3Q1Q4MVpDb1V1dVU?oc=5",
+   "source": "CTech",
+   "published": "2026-10-28",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Colmobil cyberattack exposes vulnerabilities in Israel’s connected-car ecosystem CTech",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "7d94c7307bfe",
+   "title": "TikTok Videos, Lack of Safeguards Could Push Increased Theft Threat for Certain Cars Through 2050 - Carrier Management",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UUFd0R0RFYXpSem5wYlJ3Q0d6Z0dIdGhwRDlOdWpTTW9fRFVlbUxCVGg4NE1Md3JVMTI4OVNNNDg5eFdTRERhR2RhRVdBOVNORXEyMmZwT0kwWUJVRUJkLWhIQkhuYXVpSld0NQ?oc=5",
+   "source": "Carrier Management",
+   "published": "2026-10-28",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "TikTok Videos, Lack of Safeguards Could Push Increased Theft Threat for Certain Cars Through 2050 Carrier Management",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
   {
    "id": "683e4a3e1834",
    "title": "From Caveman to COBA: Coordinated Optimization-Based Attacks on Grid-Edge Smart Inverters in DER-Rich Power Systems",
@@ -107,6 +203,42 @@
    "category": "Threat reports",
    "heat": 3,
    "summary": "Why most auto professionals expect SDVs to become cyberattack targets within 3 years Automotive News",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "37c111973a37",
+   "title": "SandStone IDM empowers automotive electronics inspection data management, reducing storage costs by 65% - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbFhqM25zWFNMN1g3UnhUUUt5ekw4aGc1R2Mzd3pHWDk5WTFlSUlKZ1AxZ3gtUzF2UzFBY09zdEQxZmVENlNmdm1td0tXMFU1WWpIbnpicWFDN0IzUzNsWWhTVWd1dTE2aGUzbUJDeERmT0ZsRU14cWY1RjNTQjlkTDByU244VVhwWklWNHJBLWh0bXphRF9rd1c5QkhWcm9VSE9XcG1iOFUyZw?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-27",
+   "category": "Telematics & privacy",
+   "heat": 3,
+   "summary": "SandStone IDM empowers automotive electronics inspection data management, reducing storage costs by 65% Yahoo Finance",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "14e62eb40a1c",
+   "title": "Why software-defined vehicles need a cleaner foundation - Global Sources",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTDV3RVJPTUVialNtTkdqMGU3cDZWN3NsYnhoSkpndmp0a0hYb1NYaDVEa2l5WUMwWGNweHlfakxZMWZBREhLVnBObTgtQXU0QXNTQ3hOLUNwYTZ5LS1DcExhaVZGcndVMVo5WWtXMGRES0Q3TTNicmtXNEtIeThIY1FFVk5VRk01cWd0MG9CY0dHMVFPRkNyRFVRRXpJZ0k3b2UwVWRxenJheWNBRXM1azR0ck5vNkZQbXo3R2xUYTItUlVjN2laY0w0YThqZ05UNkRGeg?oc=5",
+   "source": "Global Sources",
+   "published": "2026-10-27",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Why software-defined vehicles need a cleaner foundation Global Sources",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "88adbcaaf2a5",
+   "title": "Explore Investment Potential in the Global Automotive Electronics Market Through 2032 - openPR.com",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQalNjMGx3VkNKWXhMOTdnMDZOaS12N2hwV3YyMDNyZy1Canh6a2RPOTFLOW5pdjVsMjJjWHNhWm9laEZhLXgtMmdsZHdjUHB2aW9OVWRyYl80aEc4dmpuaXh3ZlJuWmNhb0oyU3ZEVTN3dWQ3QVRKUklXMmpSR3IyWTRWdDJwcHRwNTE4VDVscmlGMTg?oc=5",
+   "source": "openPR.com",
+   "published": "2026-10-27",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Explore Investment Potential in the Global Automotive Electronics Market Through 2032 openPR.com",
    "whyItMatters": "",
    "researchAngle": ""
   },
@@ -263,6 +395,18 @@
    "category": "Cellular & radio",
    "heat": 3,
    "summary": "AUTOCRYPT Highlights V2X Security Technologies and C-ITS Research Initiatives at ITS World Congress 2026 TradingView",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "8d44744ec54a",
+   "title": "AI-enabled ECU validation on AWS using Corellium Atlas virtual ECUs - Amazon Web Services (AWS)",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRnA5MlJwUmhSN2U5QzM5MVd5SGJfb0Z3U3N6UmNkM3E4YU1PS2RwMDMtUHpFQXZhaDRGWTdQc0JlTmlkVlByVWJWaVltUlBWWmFDb2Rwak16RXhTUE9aMktSVDNpRHdyOUxOU21ldWJwdGpEWTA1ZWJkYjdIV2xRTjh4QjhjSmk0QW1OWkpjWGpWSm5CV1dnUGppa21RUXNRMW8zTzZUVUt6bjkz?oc=5",
+   "source": "Amazon Web Services (AWS)",
+   "published": "2026-10-26",
+   "category": "In-vehicle networks",
+   "heat": 3,
+   "summary": "AI-enabled ECU validation on AWS using Corellium Atlas virtual ECUs Amazon Web Services (AWS)",
    "whyItMatters": "",
    "researchAngle": ""
   },
@@ -923,6 +1067,18 @@
   "d44648413489",
   "94a91d4404c1",
   "6e52c8045113",
-  "98aadb5d9980"
+  "98aadb5d9980",
+  "9ebc7f16e54c",
+  "455ddd29674b",
+  "58076d801c97",
+  "abe776f23576",
+  "37c111973a37",
+  "8d44744ec54a",
+  "b07e60687895",
+  "c9e138e7a22d",
+  "14e62eb40a1c",
+  "88adbcaaf2a5",
+  "3fe16095dfda",
+  "7d94c7307bfe"
  ]
 }
