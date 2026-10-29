@@ -1,7 +1,43 @@
 {
- "lastUpdated": "2026-10-28",
- "briefing": "12 new stories today. Top heat: “Long-Hidden Flaws Patched in EPICS Research Facility Control Software” (3/10, AV perception & AI). Busiest topic: Threat reports (9).",
+ "lastUpdated": "2026-10-29",
+ "briefing": "5 new stories today. Top heat: “WeRide builds insurance scheme for scaled robotaxi fleet - Automotive World” (4/10, AV perception & AI). Busiest topic: Threat reports (4).",
  "stories": [
+  {
+   "id": "da34d7433244",
+   "title": "Teens Steal Kia Using Viral Hack, Ring Video Shows Them Jumping From Moving Car - autoevolution",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSHJUd0otTmdjNzVZdUhEWFZ1S2V6a2tQYm82anhsLVF2S3J1VFJwTXhtaGRDeWJZRFdtdEdLZ3lpeXFZQ2hTekc3WUctRjZNRC0tY2s2X1pUUDV6ODBJOTFJNkdtdndETl9sekRaSTJsUGJ1ejVMTTZNa2RDYm9uTk4yczdwR1FBSXJhbTloTnlxRy1pRWRGUXB4Q3dlc1cxdUppV3A1Y3lvRExFMW5qc01iS05IVTB3emFGTkEwUTZGRFU?oc=5",
+   "source": "autoevolution",
+   "published": "2026-10-29",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Teens Steal Kia Using Viral Hack, Ring Video Shows Them Jumping From Moving Car autoevolution",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "108e4620a01d",
+   "title": "Rural Vehicle Demand Slumps as Monsoon Hits Farm Incomes - Urban Acres",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcHFNVzgyamtyel9VNFIxdElHTWpLMXBKMkZCWV9xaGNQalFCRUFOcHlOSVpDOXI5RGVpQnZxcXdEYlZvOE9EM3c4YmFTcGhEV2t0OTRnVzgtVUNuS05jcmJUTV8tVS1jQkN0SXNIQ2dZVDV1a3hETk5MQ1ZfVG9xaDRNeHhwZ2NYeHM0dnA0MA?oc=5",
+   "source": "Urban Acres",
+   "published": "2026-10-29",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Rural Vehicle Demand Slumps as Monsoon Hits Farm Incomes Urban Acres",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "7761fe401db3",
+   "title": "WeRide builds insurance scheme for scaled robotaxi fleet - Automotive World",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQWVMYzFtVFVINlhzbk5BTzJsb3lheVdEeDBRX0JtMnFmQ0FLbWVsR1JhejI0Q0RmR2NIUTdOTnJCUXBZbEdlZmZ5b1l5Tmt6UDM1aXVCLUVLRDJGRjByTmY3M3lYU3pfV29wSXB1Wmkwd2ZheHdEN0lra3dJZ0NnM3JPZTNkc09WdTl5TUdraUoxTGxwdVRmZHNB?oc=5",
+   "source": "Automotive World",
+   "published": "2026-10-28",
+   "category": "AV perception & AI",
+   "heat": 4,
+   "summary": "WeRide builds insurance scheme for scaled robotaxi fleet Automotive World",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
   {
    "id": "9ebc7f16e54c",
    "title": "Long-Hidden Flaws Patched in EPICS Research Facility Control Software",
@@ -95,6 +131,30 @@
    "category": "Threat reports",
    "heat": 3,
    "summary": "TikTok Videos, Lack of Safeguards Could Push Increased Theft Threat for Certain Cars Through 2050 Carrier Management",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "88aab23d3df9",
+   "title": "DevOps School publishes guide on ISO/SAE 21434 automotive cybersecurity lifecycle - Global Sources",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTThHaTNBUWMyZVpjUWI4aXhJcTNGWnFtckRoeGV2MnpZOFZtMmJBWjItc2V3ZU1IWDhHUE1UcEthbjAxTDBMTENqRGZlelpTQmI5N3V4ekRCdUl0SzJRS2xtd2Q2ek9KWTc2LV9salREQ3lWY2hWLVBVcFpLS2c2OUNLY3IzcllUS3N0cHhteDB4bGlVQUM1bGhxb2daT19vVEk3cUNzSXc1ck9ZUkRNVWVpWWV6WnB0R0Jwd1FUX2JCLXdxTDdz?oc=5",
+   "source": "Global Sources",
+   "published": "2026-10-28",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "DevOps School publishes guide on ISO/SAE 21434 automotive cybersecurity lifecycle Global Sources",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "d1b1c8bdf675",
+   "title": "Software-Defined Vehicle Market to Reach USD 2,695.46 Billion - openPR.com",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR2NkdWZnTEV4WVpEc0tVOVMzTEQtNW8tZnR6MlU2LUdxc203OGNRc3JvODdEM0V3T3hUcnRxVlRwTHhMdnpkYWpMaVFWSmI5Y1ZBMFk0cUl4T3pGSG44MXczVmF1S21VUUE4X3ZOMFVVSHhHU2FQRThKVXRJVGw1OGRDUmhrWHZENHE2dWhCcXFWM1oxT1JSWTRSekF3UQ?oc=5",
+   "source": "openPR.com",
+   "published": "2026-10-28",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Software-Defined Vehicle Market to Reach USD 2,695.46 Billion openPR.com",
    "whyItMatters": "",
    "researchAngle": ""
   },
@@ -1079,6 +1139,11 @@
   "14e62eb40a1c",
   "88adbcaaf2a5",
   "3fe16095dfda",
-  "7d94c7307bfe"
+  "7d94c7307bfe",
+  "88aab23d3df9",
+  "7761fe401db3",
+  "d1b1c8bdf675",
+  "da34d7433244",
+  "108e4620a01d"
  ]
 }
