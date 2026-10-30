@@ -1,7 +1,91 @@
 {
- "lastUpdated": "2026-10-29",
- "briefing": "5 new stories today. Top heat: “WeRide builds insurance scheme for scaled robotaxi fleet - Automotive World” (4/10, AV perception & AI). Busiest topic: Threat reports (4).",
+ "lastUpdated": "2026-10-30",
+ "briefing": "7 new stories today. Top heat: “A Minimally Informed Black-Box Fake-Report Attack on DRL Traffic-Signal Control” (3/10, AV perception & AI). Busiest topic: Threat reports (6).",
  "stories": [
+  {
+   "id": "8020b453e233",
+   "title": "A Minimally Informed Black-Box Fake-Report Attack on DRL Traffic-Signal Control",
+   "url": "https://arxiv.org/abs/2610.38557",
+   "source": "arXiv cs.CR",
+   "published": "2026-10-30",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "arXiv:2610.38557v1 Announce Type: new Abstract: Deep reinforcement learning (DRL) traffic-signal controllers may use vehicle-to-infrastructure (V2I) reports, exposing their perception layer to false-data injection. Existing demonstrations typically assume either white-box access to the controller's weights or full observability of the traffic state. We study the impact of a weaker and more realist",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "d0c846e8ed39",
+   "title": "AutoCrypt Demonstrates Vehicle Hacking, Showcases Security Testing Technology - THE ELEC, Korea Electronics Industry Media",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zTjdGRHUtQTBtT2dGSkxJcGZQam9OOGJad0dkYjR2WnhxbVpTeE1TRFVSWk5pTWxvOEJlYzMtdUtlajZOekFZVTN0MnNDeTFXWExnbFV2Z1kxRGtxdDBiUFlxeEtYeUU?oc=5",
+   "source": "THE ELEC, Korea Electronics Industry Media",
+   "published": "2026-10-30",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "AutoCrypt Demonstrates Vehicle Hacking, Showcases Security Testing Technology THE ELEC, Korea Electronics Industry Media",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "9cc9d73e3735",
+   "title": "Macronix to Showcase Automotive and IoT Memory Solutions at electronica 2026 - digitimes",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcG5Lc2dOTXdjUFNfald4MmdQSkpFN0htNlYxVEEtSkRGdXB4VWZ0aDRJeHRCc0hIaXVuWkxzdFNyUU5QdFZ0OTBabjRQeUd4V2dPMl9iVzNFTldCMEpXOVB6U1hCTGlNSUxmdFRVbkRvV0U1ZnBwal9nLW1VZ3g4dHlkRS1mN2dKdXhXWXJR?oc=5",
+   "source": "digitimes",
+   "published": "2026-10-30",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Macronix to Showcase Automotive and IoT Memory Solutions at electronica 2026 digitimes",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "5311939237b1",
+   "title": "Connected vehicle vulnerabilities increasingly stem from external cloud services, researchers find - streamlinefeed.co.ke",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbHpkaDZnQTBZcUhrVnNHNlVRMjdMX3JLT3RJc1VZLU1YbTdIQ3h6OHl6OUtxVWV6T3hidW90ZXFlZ2t0VEFfNnI0ZlYyVW5JXzZHbHFlQ1BUUU1oVGZwZFVYRk1jWnFUdUMzQ0hqMXZmNmthVW11TFdVenY4ZnhEQUJENUY1OFlLMDZwdmY0REJGeGxnandXQ2NFR3ZySUJKUDBiTFZVYnpjZVl5US1QV1NtOTdyMENPSXdra0pLQW8yUDhEZGlISmxwRQ?oc=5",
+   "source": "streamlinefeed.co.ke",
+   "published": "2026-10-30",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Connected vehicle vulnerabilities increasingly stem from external cloud services, researchers find streamlinefeed.co.ke",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "ecd96d25ba44",
+   "title": "Scientists uncover hundreds of software vulnerabilities in cars that could allow hackers to take over your BRAKES - Daily Mail",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPam1fWWkzQkRjNTZIdzFJYVdsODM0ZGFkbDNCTGprb3ViSXczdXIzUVJJVjROaUFSLXRnd3JVY19XbTdoZzBqWDFKQnJIZGtRaVZPMk56LWV5ME9fTDFQUnFRNlpHNzdPdGEyZmhkejFhZmh5YTFsSUZaM1AtS21TUEd6ODZOMVA5a09vRExDQVRRSktvSG5tZkhrQjdwb2tKdkI4?oc=5",
+   "source": "Daily Mail",
+   "published": "2026-10-30",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Scientists uncover hundreds of software vulnerabilities in cars that could allow hackers to take over your BRAKES Daily Mail",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "94f68545e26b",
+   "title": "Scientists Found 413 Security Flaws in Cars - Some Allow Hackers To Take Over Your Brakes - Gadget Review",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWkVUTHBJSFk1b3RrN0ZDMjZDNG5Ob3owUGp1WWhsMGJnYXZwRVN0Z2l3cUJnUnJXT2YtbHduZEV2cXdGR1FXaTJLR1lFeG9kZm1UU0ZfRTRuWkR6WWJTcDNjLU9pYTBXdTcyeHpFaVlrOXozeW9wdFlNa1FRaHVabmpwZVA5MVVLd0N5YnJVYTJxNTdTZWhZbGlSUUd6Y29HVjJqWkdPRTBfSVFSX1VGM3NIS0s4Wms?oc=5",
+   "source": "Gadget Review",
+   "published": "2026-10-30",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Scientists Found 413 Security Flaws in Cars - Some Allow Hackers To Take Over Your Brakes Gadget Review",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "a5d43fcf6e19",
+   "title": "Scientists Identified Hundreds of New Vulnerabilities in Cars, And They're Not Mechanical - ScienceAlert",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMGVCczlSekZPdEVPYlVYOVpGVnpYOVBwRXpuWTRzdzkzdEhKUkFlWVdIUUhjcDJEVEt2Mm1jOWgwQlBmWEM1eWlnTl9kcXk3RkFPMTRvR2p0ZUtac2d1VlFUX1ZHcjJGbHkwZ1VnQlpGQXRfN2IwS0wza1Qwb2RGUzFRRFRib29EVmsyZTNtVUNfeUFwN0NxUHBn?oc=5",
+   "source": "ScienceAlert",
+   "published": "2026-10-30",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Scientists Identified Hundreds of New Vulnerabilities in Cars, And They're Not Mechanical ScienceAlert",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
   {
    "id": "da34d7433244",
    "title": "Teens Steal Kia Using Viral Hack, Ring Video Shows Them Jumping From Moving Car - autoevolution",
@@ -1144,6 +1228,13 @@
   "7761fe401db3",
   "d1b1c8bdf675",
   "da34d7433244",
-  "108e4620a01d"
+  "108e4620a01d",
+  "8020b453e233",
+  "d0c846e8ed39",
+  "9cc9d73e3735",
+  "5311939237b1",
+  "ecd96d25ba44",
+  "94f68545e26b",
+  "a5d43fcf6e19"
  ]
 }
