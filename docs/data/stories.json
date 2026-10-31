@@ -1,7 +1,31 @@
 {
- "lastUpdated": "2026-10-30",
- "briefing": "7 new stories today. Top heat: “A Minimally Informed Black-Box Fake-Report Attack on DRL Traffic-Signal Control” (3/10, AV perception & AI). Busiest topic: Threat reports (6).",
+ "lastUpdated": "2026-10-31",
+ "briefing": "4 new stories today. Top heat: “Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%” (3/10, AV perception & AI). Busiest topic: Threat reports (2).",
  "stories": [
+  {
+   "id": "21ad2182a136",
+   "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
+   "url": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
+   "source": "The Hacker News",
+   "published": "2026-10-31",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructure and security company said it autonomously mitigated 18.2 million network-layer (L3) DDoS attacks and 14.4 trillion HTTP DDoS requests in the third quarter of 2026. That amounts to 197,400 attacks per day, or one attack every 0.44",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "f4a931bb143d",
+   "title": "Can Someone Really Hack Your Car? - Motor1.com",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1UFBTaHhHMTlzUEhyQjYzNFItZ1NKQlkxUFM4TEdZWVBTQ2U2NFh2NWwwMmNlN2dMWFNWS2NycU5SN2VJaGE3WUZBSWwzZ2RXMHV2amVrR2pBS0pPZ29Ga3d0ejl0T1RvV1c4MUxsNUh4MWJXSWdPZkxINGU?oc=5",
+   "source": "Motor1.com",
+   "published": "2026-10-31",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Can Someone Really Hack Your Car? Motor1.com",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
   {
    "id": "8020b453e233",
    "title": "A Minimally Informed Black-Box Fake-Report Attack on DRL Traffic-Signal Control",
@@ -83,6 +107,30 @@
    "category": "Threat reports",
    "heat": 3,
    "summary": "Scientists Identified Hundreds of New Vulnerabilities in Cars, And They're Not Mechanical ScienceAlert",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "75cc4e728336",
+   "title": "Cybersecurity expert’s warning for dealers as AI speeds up attacks - CBT News",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Cbzc5Qi1vRXVWMnRJX08xUUVzbjVqZlhkZ3VBUHdJaUJZcUdVSTc1ZjhXWWFTd0tsZUJlRG1YbEVldlZ2eWJHU0lRaVBUVWF2T0RLYzEwVWU4V1pwLWlTWS1OTlVneDA2c2c?oc=5",
+   "source": "CBT News",
+   "published": "2026-10-30",
+   "category": "Supply chain & dealers",
+   "heat": 3,
+   "summary": "Cybersecurity expert’s warning for dealers as AI speeds up attacks CBT News",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "e23e66498fe6",
+   "title": "Scientists Found 413 Security Flaws in Cars – Some Allow Hackers To Take Over Your Brakes - Yahoo Autos",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRW56QmxjQ2pQN1FBWGx0R01XbFllWk10Y3kxbzFrcmhuc3BDNmFRaHFhM3FBc0hiaDFyMmw0WFBwX3JVZ0dFRFo1Q2FOLVpzZHZtdUNodVpJZlF3MERkNnlkaUx1TEYyekdsVW9UNzB4UFZpb2dFYXduMjgyMWhzUHBvQjFaVGExaDMtUE9icG1CQ1drOXZHNlA5SmpuN2Nzc0JzSGRxYTlJdw?oc=5",
+   "source": "Yahoo Autos",
+   "published": "2026-10-30",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Scientists Found 413 Security Flaws in Cars – Some Allow Hackers To Take Over Your Brakes Yahoo Autos",
    "whyItMatters": "",
    "researchAngle": ""
   },
@@ -1235,6 +1283,10 @@
   "5311939237b1",
   "ecd96d25ba44",
   "94f68545e26b",
-  "a5d43fcf6e19"
+  "a5d43fcf6e19",
+  "21ad2182a136",
+  "75cc4e728336",
+  "f4a931bb143d",
+  "e23e66498fe6"
  ]
 }
