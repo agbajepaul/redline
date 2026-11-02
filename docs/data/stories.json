@@ -1,7 +1,79 @@
 {
- "lastUpdated": "2026-11-01",
- "briefing": "No new stories today. Below are the latest from previous days.",
+ "lastUpdated": "2026-11-02",
+ "briefing": "6 new stories today. Top heat: “PrivacyFlow: Privacy in AI Agents through Information Flow Analysis and Consequence-Aware Risk Management” (3/10, AV perception & AI). Busiest topic: AV perception & AI (3).",
  "stories": [
+  {
+   "id": "fa9f85962573",
+   "title": "PrivacyFlow: Privacy in AI Agents through Information Flow Analysis and Consequence-Aware Risk Management",
+   "url": "https://arxiv.org/abs/2610.40714",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-02",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "arXiv:2610.40714v1 Announce Type: new Abstract: Autonomous LLM agents executing multi-step workflows over personal data often misalign with user privacy expectations and leak sensitive, out-of-context information. Although Contextual Integrity (CI) formalizes this problem, existing benchmarks and defenses rarely operationalize CI for realistic multi-step task sequences in evolving environments. In",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "417a46768a5d",
+   "title": "ANGLER: Verifier-Grounded Benchmarking with an Adaptive Attacker for Web Agents",
+   "url": "https://arxiv.org/abs/2610.41272",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-02",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "arXiv:2610.41272v1 Announce Type: new Abstract: Web agents are increasingly deployed to complete tasks autonomously on real websites, where adversarially injected content can induce them to perform unauthorized actions. Existing evaluations primarily use fixed attacks or focus on a single attack type, and evaluate attacks at the text level rather than through real state changes, thus underestimati",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "f2789c6bdd80",
+   "title": "Communication-Efficient Private Federated Reinforcement Learning with Post-Quantum Authentication for Vehicular Networks",
+   "url": "https://arxiv.org/abs/2610.41055",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-02",
+   "category": "Telematics & privacy",
+   "heat": 3,
+   "summary": "arXiv:2610.41055v1 Announce Type: cross Abstract: Federated reinforcement learning supports cooperative vehicular routing without centralizing trajectory data, but model updates may reveal private information and incur communication overhead over intermittent vehicle-to-infrastructure links, particularly when post-quantum authentication is required. We study correlated private quantization, using ",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "964da83ac912",
+   "title": "STRIATUM-CTF: A Protocol-Driven Agentic Framework for Autonomous CTF Solving",
+   "url": "https://arxiv.org/abs/2603.22577",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-02",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "arXiv:2603.22577v2 Announce Type: replace Abstract: Autonomous cyber operations increasingly depend on agents that can chain reconnaissance, exploitation, and analysis across many tools while maintaining state over long task horizons. Large Language Models (LLMs) are promising orchestrators for this workflow, but naive agents that pipe model output directly into a shell are brittle: they emit malf",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "62bfef2d4c49",
+   "title": "United States Automotive Cybersecurity Market Size, Share, Research & Forecast Report 2026-2034 - openPR.com",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTTZILUwzZ0l1c21qS2l1U1JzbzNWLW5XLVYzVTFkNmRhUHJXaGd1dzNBcTA4cW9ZcmJsVWJvdWVDcnE0cmd0Q05NWC1NMF9VS0l2Q3VuYnBZdmNTM2dRenJINVROVG0zcGJPbXhsSTAxbFZjdzZzLVNnX01OM2w1c0d5a2RaUWRWcGVPeVcwOHU5NkJNSEpJ?oc=5",
+   "source": "openPR.com",
+   "published": "2026-11-02",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "United States Automotive Cybersecurity Market Size, Share, Research & Forecast Report 2026-2034 openPR.com",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "7bb09d45c32c",
+   "title": "Connected Car News: Audi, Virtual Vehicle, Kenworth, Peterbilt, Freightliner, VicOne, BlueBinaries & Hyundai. - AUTO Connected Car News",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR2ljZXdrQ2ZaU0gteGozY2J2cFZiSWxpVDI1Tm56d1cyY0Zld2tFREhJZ3NaQkYyLUpKc3kyYy1CUDRJV1hoS2tYcHhvcE9mdkFsN2g2VVhybWhSVzN5czRpWi02amc4ZHZidjNvUGk0QV9rc3pfUFh4RnEyVzRKdzladlFzbnl6VzR3NmRRRjZrNTRYcWtrMEJjN2x1TkRSQ0g5eS1XOXdXZTdqRkprSmdsYkRKMW9LRTdoUUZENjhWT2JzZHdRNGlnY1ZiVGpmZENjUTZVQlU?oc=5",
+   "source": "AUTO Connected Car News",
+   "published": "2026-11-01",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Connected Car News: Audi, Virtual Vehicle, Kenworth, Peterbilt, Freightliner, VicOne, BlueBinaries & Hyundai. AUTO Connected Car News",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
   {
    "id": "21ad2182a136",
    "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
@@ -1287,6 +1359,12 @@
   "21ad2182a136",
   "75cc4e728336",
   "f4a931bb143d",
-  "e23e66498fe6"
+  "e23e66498fe6",
+  "fa9f85962573",
+  "417a46768a5d",
+  "f2789c6bdd80",
+  "964da83ac912",
+  "7bb09d45c32c",
+  "62bfef2d4c49"
  ]
 }
