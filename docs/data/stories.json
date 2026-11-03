@@ -1,7 +1,79 @@
 {
- "lastUpdated": "2026-11-02",
- "briefing": "6 new stories today. Top heat: “PrivacyFlow: Privacy in AI Agents through Information Flow Analysis and Consequence-Aware Risk Management” (3/10, AV perception & AI). Busiest topic: AV perception & AI (3).",
+ "lastUpdated": "2026-11-03",
+ "briefing": "6 new stories today. Top heat: “Google Dismantles XCPE Botnet of 1.3 Million Android Devices” (3/10, Threat reports). Busiest topic: Threat reports (3).",
  "stories": [
+  {
+   "id": "402458e4dacc",
+   "title": "Google Dismantles XCPE Botnet of 1.3 Million Android Devices",
+   "url": "https://www.securityweek.com/google-dismantles-xcpe-botnet-of-1-3-million-android-devices/",
+   "source": "SecurityWeek",
+   "published": "2026-11-03",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "The botnet was created and operated for financial gain by Android OEM/ODM Videostrong Technology. The post Google Dismantles XCPE Botnet of 1.3 Million Android Devices appeared first on SecurityWeek .",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "9223cb0446c8",
+   "title": "Threat Modeling Intimate Partner Abuse in Agentic Systems",
+   "url": "https://arxiv.org/abs/2611.00489",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-03",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "arXiv:2611.00489v1 Announce Type: new Abstract: Agentic systems are AI-powered technologies capable of autonomous action within digital environments, such as sending emails or making reservations. They are deeply connected to external tools as well as users' data and resources, making them vulnerable to attacks which exploit their access and capabilities. In this work, we apply the technology-faci",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "9fafaaf7fe0a",
+   "title": "The Long Con on the Web: Earn-then-Exploit Fraud Attacks against Coding Agents",
+   "url": "https://arxiv.org/abs/2611.00725",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-03",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "arXiv:2611.00725v1 Announce Type: new Abstract: Coding agents increasingly operate with web access and high privileges, creating a new attack surface where web fraud can directly target autonomous agents. Existing studies mainly focus on malicious links, prompt injection, and interface deception, while content-level web fraud against agents and the amplification of attacks through agent trust rema",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "f064327606d1",
+   "title": "Evaluating autonomous self-healing against persistent cyber-attacks",
+   "url": "https://arxiv.org/abs/2611.02858",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-03",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "arXiv:2611.02858v1 Announce Type: new Abstract: The need for autonomous cyber resilience (ACR) is strongly accelerating. The boost in cyber capabilities of advanced AI is speeding up the attacker-defender rat race to an unprecedented pace. As a result, the field of ACR must progress from early design and experimentation to hands-on evaluation and deployment. To illustrate what is needed for this t",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "aeae65ece036",
+   "title": "Automotive Cybersecurity Must Extend Beyond OEMs, Say Spark Minda, Vector - Autocar Professional",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLVdFYXBuSHVtbzNiakdoUDlkMURBdmM3Wlh0RXJUM1pKWlRpTFFPVWFJdTJZM0EtYnl0REd1UTAzZVZfaG5xYkRaWFkwdkMyMnVOR1V3aEFSQ3BGbFQyWXVNeGgxMXpiLXZZSmhwalY3U2UtYUxHY251QnNESDUzWXpRcDdqclhYQWtqQmxoMmNuSTByX0IyUElMOWZqRVB4ZDUzamg5YmFQcEFWcnRv0gG3AUFVX3lxTFBGbjVPM1dSbnRlMkFOdUtxdUVuMGFGVjBSa3J2RWhkd1F3VTRPdWVfb3NHdlYwVG5aNy1YN2hFMUFSaVgwZlBjc0hvY2dKYmxNb2VybG9ILW13Rk94bi1WUmFCVTNTUXVLUXAzekVZci1lS2ZrWHAybkw1OWcwNmtyVWtPTmEwMy1FOWFUdDhWT0RxRmstbS1NYVBaajFTMlZqZWR1cExENHRHRzRQZkdnbkY3bE5Odw?oc=5",
+   "source": "Autocar Professional",
+   "published": "2026-11-03",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Automotive Cybersecurity Must Extend Beyond OEMs, Say Spark Minda, Vector Autocar Professional",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "d3e05e85d5f7",
+   "title": "Autel Awards Five Automotive Education Scholarships - Brake & Front End",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY0VBUkdtUXVzb3hFckpiY3oyQTF6UXY0STdyQ3FGTnhwbG5xSDJDbmhqZzBfZEVBR0x1RlpfOHlBTkFRWHZfZGxPM2xaa1FIZjliOG04UFZjVlJGWkxvNXgwemcyV2NTTGRoYzRIZFVRYmhWOTdURXRhY2piRkFPVzdxUUYtWEFKOVBuV2FR?oc=5",
+   "source": "Brake & Front End",
+   "published": "2026-11-03",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Autel Awards Five Automotive Education Scholarships Brake & Front End",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
   {
    "id": "fa9f85962573",
    "title": "PrivacyFlow: Privacy in AI Agents through Information Flow Analysis and Consequence-Aware Risk Management",
@@ -1365,6 +1437,12 @@
   "f2789c6bdd80",
   "964da83ac912",
   "7bb09d45c32c",
-  "62bfef2d4c49"
+  "62bfef2d4c49",
+  "402458e4dacc",
+  "9223cb0446c8",
+  "9fafaaf7fe0a",
+  "f064327606d1",
+  "aeae65ece036",
+  "d3e05e85d5f7"
  ]
 }
