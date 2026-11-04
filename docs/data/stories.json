@@ -1,7 +1,67 @@
 {
- "lastUpdated": "2026-11-03",
- "briefing": "6 new stories today. Top heat: “Google Dismantles XCPE Botnet of 1.3 Million Android Devices” (3/10, Threat reports). Busiest topic: Threat reports (3).",
+ "lastUpdated": "2026-11-04",
+ "briefing": "6 new stories today. Top heat: “Can Autonomous Vehicles Keep Their Cool? A Survey of Thermal Side-Channel and Perception Attacks” (5/10, AV perception & AI). Busiest topic: Threat reports (4).",
  "stories": [
+  {
+   "id": "7f2a0c75650d",
+   "title": "Can Autonomous Vehicles Keep Their Cool? A Survey of Thermal Side-Channel and Perception Attacks",
+   "url": "https://arxiv.org/abs/2610.21034",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-04",
+   "category": "AV perception & AI",
+   "heat": 5,
+   "summary": "arXiv:2610.21034v2 Announce Type: replace Abstract: Autonomous vehicles (AVs) couple safety-critical perception to thermally constrained compute. Physical adversaries can spoof thermal infrared (IR) sensors used for night driving, while unprivileged software co-tenants can fingerprint perception workloads from thermal, dynamic voltage and frequency scaling (DVFS), and thermal event interrupt (TEI)",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "387b31502d5a",
+   "title": "RuntimeTickets: Source-Grounded Security Obligations for Agent Skills",
+   "url": "https://arxiv.org/abs/2611.03772",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-04",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "arXiv:2611.03772v1 Announce Type: new Abstract: Third-party Agent Skills extend what an autonomous agent can do, but a malicious Skill can hide data exposure or output manipulation inside a legitimate workflow. Neither reading a Skill's description nor granting it tool permissions tells whether its execution meets the user's security requirements. We introduce RuntimeTickets, a protocol that enfor",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "2b0ff93a5ea0",
+   "title": "Behavioral Residualization for Unsupervised Intrusion Detection in Automotive CAN Networks",
+   "url": "https://arxiv.org/abs/2608.05548",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-04",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "arXiv:2608.05548v2 Announce Type: replace Abstract: Modern vehicles exchange safety-critical messages over the Controller Area Network (CAN), a bus designed for low cost and real-time operation that offers neither authentication nor encryption. Once an attacker reaches the network, arbitrary frames can be injected. Existing detectors frequently rely on surface cues (previously unseen identifiers, ",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "5aa7923504ef",
+   "title": "Thieves are stealing locked, parked cars in Lakeview and Uptown. Police aren’t saying how. - CWB Chicago",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYzR5aUpFS1Fhd29RY2tZSDRuQmV4cUJTLWhDekM4R3VhZTRaWWVqVkR0cEY4XzNDSjVRLWVqVDhYS0dmZFg4NTVWaHVnMk40SnlLM1ZBWUR0dHZrbVNDNlVlcUREZWUxOE5kX3NQWnNqRHNEMGpKdkZjUzBzNUxRZk9jMzk5ZWY3QkRJOUw1TzNqdlNsQ0JzQm05ajBJdXZsajdPcGZNQmpYb0t0U2VSdlEzVmR1MXVMVjVwMXUzaw?oc=5",
+   "source": "CWB Chicago",
+   "published": "2026-11-04",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Thieves are stealing locked, parked cars in Lakeview and Uptown. Police aren’t saying how. CWB Chicago",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "c6e31485f98f",
+   "title": "CERT-In Flags High-Severity Flaws in Tata Connected Car Apps - Rediff MoneyWiz",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUnpIMWN4c2x6cVk0QkV2S3ptLU9BMlBKNlhHUkJJTVdyaDR1Y3lqLWx1d3hueUlsZmRQUjdPWkpCcHJJMHpoaFRHc0ItdnhoYWR2LURnWmFGQ01wQ2E4OFRsZlN3UFctMEVJcVExeHpZNkc0Z2c2cHFDWnBSSWVvcnpZYm1kakhtakN3M2ZYXzF3RklTSl9uTHlYaDB6LU8teE5yT3NySXlpSnpISkFXQ2d30gG3AUFVX3lxTFBSVXRKb0ExT0V5UzNHaDUxR0dHWEk3cDBhRmhqbHhpck5OR0JYQTF5Ul95VWxrOHRzYUFpeTU4STlVN1pXODFjamQ1Z0plMVlaZDJhZnlPdHRNNThxcGVvUWY1Q3JQNU1aRXFuU3k4U3RTOU5adDBtbTFvTVZlTm0tc2RHQWFMNmppaWNWQU4xdHFiQUVxWmV2alE2M011NTBlQkhEVnB1c2I2QXdPa1hRbzVQN3VmSQ?oc=5",
+   "source": "Rediff MoneyWiz",
+   "published": "2026-11-04",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "CERT-In Flags High-Severity Flaws in Tata Connected Car Apps Rediff MoneyWiz",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
   {
    "id": "402458e4dacc",
    "title": "Google Dismantles XCPE Botnet of 1.3 Million Android Devices",
@@ -71,6 +131,18 @@
    "category": "Threat reports",
    "heat": 3,
    "summary": "Autel Awards Five Automotive Education Scholarships Brake & Front End",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "c7fae96124a1",
+   "title": "How to Protect Your Vehicle From Theft When Parking Overnight - TechBullion",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQTk1WmhueDNIcHA3UDFaR1RkeHJWd3VqY21wZWwxXzlWNWl1NUM4emMyajZBX29kUEc3Qk0wVGYzemRWYXdXN0lmNE1YRklsVG1PZnlscEhDbkhXcmh4ZUJyaU56SVFJY1p1VW1ranZUZjFrNkZjb0xhUGtDb19DVjViT00waHFyUjNramg4NA?oc=5",
+   "source": "TechBullion",
+   "published": "2026-11-03",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "How to Protect Your Vehicle From Theft When Parking Overnight TechBullion",
    "whyItMatters": "",
    "researchAngle": ""
   },
@@ -1443,6 +1515,12 @@
   "9fafaaf7fe0a",
   "f064327606d1",
   "aeae65ece036",
-  "d3e05e85d5f7"
+  "d3e05e85d5f7",
+  "387b31502d5a",
+  "2b0ff93a5ea0",
+  "7f2a0c75650d",
+  "5aa7923504ef",
+  "c6e31485f98f",
+  "c7fae96124a1"
  ]
 }
