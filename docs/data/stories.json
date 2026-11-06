@@ -1,7 +1,103 @@
 {
- "lastUpdated": "2026-11-05",
- "briefing": "13 new stories today. Top heat: “The Agent Smith Dilemma: Governing Agentic Identities” (3/10, AV perception & AI). Busiest topic: Telematics & privacy (7).",
+ "lastUpdated": "2026-11-06",
+ "briefing": "11 new stories today. Top heat: “CANMentor: A Large-Small Model Collaboration Framework for CAN Bus Intrusion Detection” (5/10, In-vehicle networks). Busiest topic: Threat reports (5).",
  "stories": [
+  {
+   "id": "468404fd3490",
+   "title": "CANMentor: A Large-Small Model Collaboration Framework for CAN Bus Intrusion Detection",
+   "url": "https://arxiv.org/abs/2611.07853",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-06",
+   "category": "In-vehicle networks",
+   "heat": 5,
+   "summary": "arXiv:2611.07853v1 Announce Type: new Abstract: The Controller Area Network (CAN) bus lacks built-in security mechanisms, making real-time intrusion detection necessary. However, resource and latency constraints limit vehicle-side intrusion detection systems (IDSs) to lightweight models, whose detection performance and generalization can degrade under non-independent and identically distributed (n",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "cf90cacafafe",
+   "title": "A Gingerbread House for LLM Agents: Source-Planned Honeypots That Lure Autonomous Attackers into an Isolated Shadow",
+   "url": "https://arxiv.org/abs/2611.07611",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-06",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "arXiv:2611.07611v1 Announce Type: new Abstract: LLM agents can exploit web vulnerabilities fast enough that patching may come too late. Deception against such agents has mostly lured them away from a real target that stays reachable. We study a different arrangement: an LLM defender plans a static honeypot from the application's source, and a router sends every later request of a client it confirm",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "e611d4b9decd",
+   "title": "Stealthy Malicious Interference Detection in UAV Formations: A Power-Domain Signaling Game Approach",
+   "url": "https://arxiv.org/abs/2611.07977",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-06",
+   "category": "Cellular & radio",
+   "heat": 3,
+   "summary": "arXiv:2611.07977v1 Announce Type: new Abstract: Reliable intra-swarm communication is fundamental to cooperative sensing, control, and mission execution in unmanned aerial vehicle (UAV) swarms. In open low-altitude shared-spectrum environments, coexisting UAVs may cause benign interference through spectrum reuse and signal leakage, while jamming UAVs may deliberately degrade critical intra-swarm l",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "c70a903cde2c",
+   "title": "The Promise of Strategic Agentic Scambaiting",
+   "url": "https://arxiv.org/abs/2611.08170",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-06",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "arXiv:2611.08170v1 Announce Type: new Abstract: Scammers have increasingly adopted AI-driven capabilities, evolving from automated message generation to fully agentic conversational systems that scale operations and maximize the exploitation of fraudulent resources before detection and takedown. In parallel, agentic scambaiting has emerged as a defensive approach in which autonomous agents imperso",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "5a5e1e0f26ab",
+   "title": "A Cyber Range Evaluation of Inductive Autonomous Network Incident Response Agents",
+   "url": "https://arxiv.org/abs/2609.16541",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-06",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "arXiv:2609.16541v2 Announce Type: replace Abstract: We have applied a novel combination of classic relational database modeling and modern reinforcement learning to automated intrusion response to enable inductive decision agents. Unlike previous work in the area, our approach allows agents to handle variable quantities of network assets without retraining. We test the operational performance of o",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "d5c83f96043b",
+   "title": "AI boom threatens auto supply of legacy memory chips, PCBs - Automotive News",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR0lFT1R0aHJNTVV3VnhYdnRRNldzY0paWklaU3BpM0VZM1g0Uk9mQXJtU3VjTTFPbzUxWk9JcHpnekFYSldFZTB5ZEFNX2dlaENkNFEzd3ZfY0N5NXVibDlZVUFZVlJHWkZIU29LUnRvUTZBREdmdURJM3RpME1GSC1SbllsZHNQME9YZ3BOVQ?oc=5",
+   "source": "Automotive News",
+   "published": "2026-11-06",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "AI boom threatens auto supply of legacy memory chips, PCBs Automotive News",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "645bd8f03b3b",
+   "title": "​CERT-In Flags Four Critical Vulnerabilities in Tata Motors Connected Car Apps - The 420.in",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQmRId1NteGZUYldyMFowYnNxWGRlX2w0YlNBMjRxNE91WE9KUm1kYVBHZ3c2TVUxVzU2VjNhaEEtOXUzSW14Sm5faXlGWmJ3WXBpVnU4MWZrR1pvek44Y0VCQ2tpTlFINzE1QTgydkV2SzBmZDVvRXZmTWd0VXZ1Q05HUzhadDJBemg5M0ozTzFqVy1GZ25yM2lVclM?oc=5",
+   "source": "The 420.in",
+   "published": "2026-11-06",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "​CERT-In Flags Four Critical Vulnerabilities in Tata Motors Connected Car Apps The 420.in",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "e556926dac40",
+   "title": "Tata Motors Apps Could Be Vulnerable to Hacking, CERT-In Issues Alert; Automaker Responds - Mashable India",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNl83Tm1uMmRYRWwxWXljWVg5T1VTR1U2YWIxdUM1aHVDMElJa3JZZnJhdjMxRnZrMVptdXRIVTZCcklvRmdXaWRUQlVSLUtGTEtqZ2FYTjhzZmFhVEk3aHkwRHUtTUNPMVFrWDhnSUFMMGxiMDFDQXBSQUdnVHhka05LV1A1azBnWHVaMVZWY3A3YkpLaHhoRlpNMTRCa01sWnp0RXRPVWVJOWVFU3A0cTlkLXZvb1NiVUpoSnl6S05Sbm9yZl9nYjF3?oc=5",
+   "source": "Mashable India",
+   "published": "2026-11-06",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Tata Motors Apps Could Be Vulnerable to Hacking, CERT-In Issues Alert; Automaker Responds Mashable India",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
   {
    "id": "bcd0f8e51ff4",
    "title": "The Agent Smith Dilemma: Governing Agentic Identities",
@@ -143,6 +239,42 @@
    "category": "Telematics & privacy",
    "heat": 3,
    "summary": "Using Tata Motors car? Govt warns hackers can steal your data from iRA apps, here is how to stay safe Digit",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "872dc41d6f79",
+   "title": "Automotive Cybersecurity Lab Opens at CIRT Pune - Urban Acres",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYmdRSFZDb3RFTGVvN3lmelM2RmVfYXlnUEZKbFhjdm5VSVVXaVJ6UFcyN1BCS0NLR1o0RUtnelVZWlQ5eTUxN1N5Y2pJbjJTWTZYY05xMi1yNEZCZ1pGamQtWlRPLWxWaUR4aW9XNmxJZnlNYnVSNlpneHh0MzREVGtPS2dIZVJ1cWdGN2QxNFV1UWlqUnQ2Vng0aThOMlU?oc=5",
+   "source": "Urban Acres",
+   "published": "2026-11-05",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Automotive Cybersecurity Lab Opens at CIRT Pune Urban Acres",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "9bbab5e1f2fe",
+   "title": "Is your Tata car at risk? Hackers may target iRA app, CERT-In warns - India Today",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTmoxcVJyZXlIdHhOSlJqWEdVMGd1OUx0Wkhlc0h3ZkJVZkNkNk1teG1VMEFwVmExTVpFd0dIUUNvMXlnendJS28zZkE0NVVjS0h0WE9aSGNCaGhFQUpta1Jta3doS2dLUlNmLTAtemoyck9XY2VEeld3RHZ5MW5QS3NxTUpxY1dlYzY3WlZGc0pkOEIyV2JyYWRxNndRR2R3UGZKS3ZXT2lVNE94bHhrUUkxU2lKUTJZVmVmejlhOThwQXBfX3A1ck90TUPSAdIBQVVfeXFMUFBHMmtENW5Hd0NMdXFhVUdQVEZFTFlySmdHeHFoRmZGRXZVcFlHMFR0TlF3QTY4X09zeFZ5bUdXZndTd2Z2cnZqXzc5V1dJbE5ESmlwMXM4X25laFlOdGZsQnV6YWUxQS1ZdDBmY3JoazNzTEdwbW9zRVhWcVdPam1QVGxOZnA2WHpmQzYzelNvWDdwcllaaWs3cGd3VWVPX1JObDM4dDEzaHc5aVhRRHpqbXRGcjhZN21qSkhDcldRcnpqOTV4b0N2NEpYaFptZlNR?oc=5",
+   "source": "India Today",
+   "published": "2026-11-05",
+   "category": "Telematics & privacy",
+   "heat": 3,
+   "summary": "Is your Tata car at risk? Hackers may target iRA app, CERT-In warns India Today",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "83d74faf6c0c",
+   "title": "CERT-In flags vulnerabilities in select Tata Motors' iRA connected vehicle apps - Mid-Day",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUnNlUkFNTU9fNWtWdW1jejZMOHJQZ1RCaW1YVUM4QWJfY0pGb04yUFZUSlVEcW12YkRURHVxclEtdVl3ejBrR2JZaWJXRUtHbHF1aDlmS3UwNnQwZ05XZk5qU2NCdzZKbUZoUnR4b2l0WGJBcmVTS1N6bDF3WHBlLWxUQzF2YVRIV0V2T1hLY0c5MnVfWkwxU0I4YnA0cXB6RVZ6RVNiVVE0d01hYXB4dE80TVNHazMxb24wUE54NmdkLWxxTlRiQm5JUDhCZnNPaExsREJCaW1IaWU4OHRSdjdXalI3dw?oc=5",
+   "source": "Mid-Day",
+   "published": "2026-11-05",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "CERT-In flags vulnerabilities in select Tata Motors' iRA connected vehicle apps Mid-Day",
    "whyItMatters": "",
    "researchAngle": ""
   },
@@ -1690,6 +1822,17 @@
   "aeebe9a330be",
   "883d343a48ee",
   "cafcc0e5ce32",
-  "9cb2eff6ea7f"
+  "9cb2eff6ea7f",
+  "cf90cacafafe",
+  "468404fd3490",
+  "e611d4b9decd",
+  "c70a903cde2c",
+  "5a5e1e0f26ab",
+  "872dc41d6f79",
+  "d5c83f96043b",
+  "645bd8f03b3b",
+  "9bbab5e1f2fe",
+  "e556926dac40",
+  "83d74faf6c0c"
  ]
 }
