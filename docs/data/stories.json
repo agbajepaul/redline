@@ -1,7 +1,19 @@
 {
- "lastUpdated": "2026-11-06",
- "briefing": "11 new stories today. Top heat: “CANMentor: A Large-Small Model Collaboration Framework for CAN Bus Intrusion Detection” (5/10, In-vehicle networks). Busiest topic: Threat reports (5).",
+ "lastUpdated": "2026-11-07",
+ "briefing": "5 new stories today. Top heat: “Car Cybersecurity In India: Can Connected Cars Be Hacked? - CarAndBike” (3/10, Threat reports). Busiest topic: Threat reports (4).",
  "stories": [
+  {
+   "id": "345ff832041e",
+   "title": "Car Cybersecurity In India: Can Connected Cars Be Hacked? - CarAndBike",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaGptNml5eFYyYkd5eXZPYkpaMWludzBWb2NhMDdkaGEwaTV6dTQ3NGlOc3g0Nk1qb01JcENoTmVHTzBMdW5nVGNUelRjYXhscUY0UUNmanNVY204R3M4Q1R2UjF6d0NYdXRuVFRTZGI2MHRrb1pTWWNtRG5CQ3pwaG9kTldGYUsyUVdPLUsyZGE0NmhmdmJURVJpa9IBowFBVV95cUxQNF9tMEhrOV9VckVoWnhqMDZONkhHTUNDbFlCaU9fNEMxX0NFZjJQdEZ5T0oydGl5NnkwS0Rkb3NFUEtmclR0SUpaamJWd1lyZzZUaXlTb3M5UTNlejFzSHc4R3pkdEM1ME1tYXBnUVV0Sk5ZOEpBeFNhU0k5SXpxR3o2SGtGNTBQbnpJNTZJcHFzaDdvZk0yb0VwaERPcVVZTWVJ?oc=5",
+   "source": "CarAndBike",
+   "published": "2026-11-07",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Car Cybersecurity In India: Can Connected Cars Be Hacked? CarAndBike",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
   {
    "id": "468404fd3490",
    "title": "CANMentor: A Large-Small Model Collaboration Framework for CAN Bus Intrusion Detection",
@@ -95,6 +107,54 @@
    "category": "Threat reports",
    "heat": 3,
    "summary": "Tata Motors Apps Could Be Vulnerable to Hacking, CERT-In Issues Alert; Automaker Responds Mashable India",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "8b80ff3ad937",
+   "title": "The Battle Between Car Theft Technology And Anti-Theft Innovation - TechRound",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcVZTYVlPOUw3UmtZdE1EWlZiM3RpYTBXb2dMck53dURZZnVhb0dvSVpnVnZVaFgwY0xIY1FKdkg2N3R5RndhaFNmMjhEVlZyODYzVG9mc20tSklDbFBsM2JtVENvMEgxbEZVTDFUQUFTS0d2YUd3dWVYdU1zZ0kwRnFHUEpnM3E2NnRWYUtPUjJycmJXREFlajJOTQ?oc=5",
+   "source": "TechRound",
+   "published": "2026-11-06",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "The Battle Between Car Theft Technology And Anti-Theft Innovation TechRound",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "0154a9994b46",
+   "title": "Trust in Motion: Why the Vehicle Handoff Is the Next Frontier in Automotive Logistics Security - Cox Automotive Inc.",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcV8wbElpd2tMU0hMWG1sV0FycVB3Z3dhejhGOVZJTzRWQk1UbE1ra1dOSEVCTEZKbkNhcjJ6Z1o1WGVGWXp0RTRPTjcwN2dQM3BjZXRfWllyakc3QnpIVV8yM3c5Y0dHXzhLWXZiWWhaQWFTSXNvUGJaS3hZWWplMVdyNXkwUy1iUHl2a0V3LXV3d1lmM1NWcEJDZVk2cmxHSGxvUkpOTnpoRkpobWUzQnVPRGxUTE1FczdFSHBmZ1RhYncyMWZfTkxR?oc=5",
+   "source": "Cox Automotive Inc.",
+   "published": "2026-11-06",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Trust in Motion: Why the Vehicle Handoff Is the Next Frontier in Automotive Logistics Security Cox Automotive Inc.",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "364a88a4be8d",
+   "title": "Volkswagen leak exposed location of 800,000 electric car drivers for months - Mashable",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16SzRHV3UyMURYckdoMEdZTHlVWkxSeTlLRmpVWlVxRW91Qld4cjZfSHIyVzE5Z21HRS1uTDdhY3dKMTg1dWUyWkV1RkU2R2VoN2NYc0ZFSm5NMjlBeUJsR0hn?oc=5",
+   "source": "Mashable",
+   "published": "2026-11-06",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Volkswagen leak exposed location of 800,000 electric car drivers for months Mashable",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "d4e62f4e83ac",
+   "title": "Using Tata Motors car? Govt warns hackers can steal your data from iRA apps, here is how to stay safe - Digit",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOU05UeDlydVZWNWE1bDMtbnJ6ck1IVUJRbG9jaDRaNzl6QWNWY3J4QXhKMnZZTXQ2VVFwVVZJNUtGX3AwRjQ1eDRuMklpYVBCWThPZmlxZmVJLXRhVWtRQldZY21SRVZaOEdJaDhFY2k5Y3FQX2cwU1NYa21mcjdSa1FuWkZPZmZWb3pnVmU5WXFDNEVOa19Lem0tY3NINkN0bnJ4WkI4dFEyM0pBTlJldE9TOW8xajBWMEhYcXBTYXdCTFZaeXhWU2gtMk5XQ0Q5LWZnYtIB2wFBVV95cUxNbEJXLXBkR2l2eFE3V2ZNczRHWlpOQWxJb3BNMHFNLXVvRnRTbG9iempOeS03RjN6T1V5c0hBZVFtV2FKbWdTVGtkbzdjbDd4c3NDVXpGai1DN0ltV3RnSUZreDhVOTBJN1FQcGt6VVFibl9nS1RFYmxHLWJrV040eVVKRkUwYmVGS0pHSERrU3dlS2l4Sk1pZUNxYW5IeTNnOUIzTGo4a3QyWC1sbW5lU3h6TElsU1ZrbEo1NXczYmlBYkZzbE13Yl82S1BoQTh5VExzTmlsOFZrWXc?oc=5",
+   "source": "Digit",
+   "published": "2026-11-06",
+   "category": "Telematics & privacy",
+   "heat": 3,
+   "summary": "Using Tata Motors car? Govt warns hackers can steal your data from iRA apps, here is how to stay safe Digit",
    "whyItMatters": "",
    "researchAngle": ""
   },
@@ -1833,6 +1893,11 @@
   "645bd8f03b3b",
   "9bbab5e1f2fe",
   "e556926dac40",
-  "83d74faf6c0c"
+  "83d74faf6c0c",
+  "345ff832041e",
+  "8b80ff3ad937",
+  "0154a9994b46",
+  "364a88a4be8d",
+  "d4e62f4e83ac"
  ]
 }
