@@ -1,7 +1,19 @@
 {
- "lastUpdated": "2026-11-07",
- "briefing": "5 new stories today. Top heat: “Car Cybersecurity In India: Can Connected Cars Be Hacked? - CarAndBike” (3/10, Threat reports). Busiest topic: Threat reports (4).",
+ "lastUpdated": "2026-11-08",
+ "briefing": "2 new stories today. Top heat: “Just Update Your Car Already: Police Issue New Warning for Kia and Hyundai Owners - autoevolution” (3/10, Threat reports). Busiest topic: Threat reports (2).",
  "stories": [
+  {
+   "id": "79732522c7f4",
+   "title": "Just Update Your Car Already: Police Issue New Warning for Kia and Hyundai Owners - autoevolution",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVE5nZVNfZ1NfeGZUUTVjMVBscTVobmQzVE5nRjdBVk5RcHozaXY0UHdqSWZxRFB6QTNtbkhNOHR0cHBMclBzYUpkUFNXc2M1cjRIRFFjc0VwZ0tsQjRlblpFTzNLVmxzM0VRRFcwRHlKbXNjSktGSkZmRnN0dHpBclEyOEJDOE0zT29uR3FiamlELWlKc1N5cG51N3ZOdzZfTWFFdkJTYnYzaGFBdEZmdW1fMF9NRlk0OFZqVnBkSzFwUUNIbkE?oc=5",
+   "source": "autoevolution",
+   "published": "2026-11-08",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Just Update Your Car Already: Police Issue New Warning for Kia and Hyundai Owners autoevolution",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
   {
    "id": "345ff832041e",
    "title": "Car Cybersecurity In India: Can Connected Cars Be Hacked? - CarAndBike",
@@ -11,6 +23,18 @@
    "category": "Threat reports",
    "heat": 3,
    "summary": "Car Cybersecurity In India: Can Connected Cars Be Hacked? CarAndBike",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "8155b7b9eb66",
+   "title": "Pakistan unveils ‘New Auto Policy’, targets $6bn in vehicle exports - ARYnews.tv",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRVZRdzRxZ2tvUWtjWnAyY2tFT1M0bTlHRnduZTJoVE9ZTnNDSzRjWncxc2xYbUZURFlkcmVQdy1vN1FMeFk4bjcwSVFHQzVoV0JHZlVwRXJWWEFrX1VOcGVIbmFoejJWcUh0cEJ5ZTBGYVhSbnlZMkJnTmJaejBLWkpKNkVmQW1tb2c?oc=5",
+   "source": "ARYnews.tv",
+   "published": "2026-11-07",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Pakistan unveils ‘New Auto Policy’, targets $6bn in vehicle exports ARYnews.tv",
    "whyItMatters": "",
    "researchAngle": ""
   },
@@ -1898,6 +1922,8 @@
   "8b80ff3ad937",
   "0154a9994b46",
   "364a88a4be8d",
-  "d4e62f4e83ac"
+  "d4e62f4e83ac",
+  "79732522c7f4",
+  "8155b7b9eb66"
  ]
 }
