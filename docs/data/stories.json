@@ -1,7 +1,103 @@
 {
- "lastUpdated": "2026-11-10",
- "briefing": "26 new stories today. Top heat: “Hackers Exploit ForgeRock WAF Bypass and RCE to Remotely Unlock and Start Cars From Two Automakers - GBHackers News” (7/10, Keyless & access). Busiest topic: Threat reports (21).",
+ "lastUpdated": "2026-11-11",
+ "briefing": "11 new stories today. Top heat: “A vulnerability has been discovered that could allow remote unlocking of cars; Toyota vehicles may be affected. - GIGAZINE” (5/10, Keyless & access). Busiest topic: Threat reports (5).",
  "stories": [
+  {
+   "id": "36a84cd5ea2a",
+   "title": "Smartphones can unlock other people's cars as security flaw found - 디지털투데이",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY0R4Tm5vZ2t2M2kwRTAyOHBXd25JSUEzYjZ1elZCOTV2QjA3ZVVobTNnMWJDWGthVEdmOEpIdUF0T20ySFdIaktaYkU4eWJnY1B0VkhKc0dEQnJfUHdlRzFJYlJRa3ZzNkZ4emdsNWxWa1dhbDktN2s1REY0ZjJXZ0hHcGRtdDlZeW5jU3ZfTnZZLURWYlRkTnpwOWdkZUlEaDJtc0xyekU0STM1cjBkVG9nRzk?oc=5",
+   "source": "디지털투데이",
+   "published": "2026-11-11",
+   "category": "Keyless & access",
+   "heat": 5,
+   "summary": "Smartphones can unlock other people's cars as security flaw found 디지털투데이",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "6ef677aa3015",
+   "title": "Finite State Raises $27 Million to Secure Software and Firmware in Connected Devices",
+   "url": "https://www.securityweek.com/finite-state-raises-27-million-to-secure-software-and-firmware-in-connected-devices/",
+   "source": "SecurityWeek",
+   "published": "2026-11-11",
+   "category": "AV perception & AI",
+   "heat": 4,
+   "summary": "The Series C round will fund international expansion and more autonomous features for the firm’s device security platform. The post Finite State Raises $27 Million to Secure Software and Firmware in Connected Devices appeared first on SecurityWeek .",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "4c5f07b26f27",
+   "title": "Stinging the Swarm: Extracting Attacker Intelligence from a Twin-Controller OT Honeypot",
+   "url": "https://arxiv.org/abs/2611.13406",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-11",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "arXiv:2611.13406v1 Announce Type: new Abstract: Autonomous language-model agents can drive industrial controllers over fieldbus protocols, probing a plant at machine speed and in coordinated swarms. We present Talos, an inline gate that judges every agent request to a controller in milliseconds and routes agents it flags as hostile to a device-faithful decoy -- a mirror twin of the real plant -- w",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "316fdbda2249",
+   "title": "On Private Knowledge Retrieval and Private Inference for secure multi-agent systems",
+   "url": "https://arxiv.org/abs/2611.13696",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-11",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "arXiv:2611.13696v1 Announce Type: new Abstract: Multi-agent systems provide a convenient framework for the massive deployment of agents based on Large Language Models (LLMs). It provides a sound framework where agents can interact with existing software to perform actions in an autonomous way. Agentic AI is the new term to denote these AI-based autonomous systems. In real multi-agent systems, agen",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "a72142c29094",
+   "title": "How Well Do SAST Tools Work Across Languages? An Empirical Study Using OCPP Implementations",
+   "url": "https://arxiv.org/abs/2611.14362",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-11",
+   "category": "EV charging",
+   "heat": 3,
+   "summary": "arXiv:2611.14362v1 Announce Type: new Abstract: As electric vehicle (EV) adoption accelerates globally, securing electric vehicle charging station (EVCS) software becomes increasingly critical. The Open Charge Point Protocol (OCPP), widely adopted for EVCS management, places significant responsibility on developers to securely implement specifications that are subject to multiple interpretations. ",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "5c1ffe796a06",
+   "title": "Samsung Display Wins Two Automotive Cybersecurity Certifications - THE ELEC, Korea Electronics Industry Media",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UXzVhSVFkb0ZuYUotMHkyVGFsVmpZdW0zdmxaS3BnSVptdks1amNOWXRpTVpxUmpQU0N1ZWtja3dVc2RQaFVzMHJSZ3lKdmVLOWpyNXpoWHFwT3RJZV9PeWVTUHdlUHM?oc=5",
+   "source": "THE ELEC, Korea Electronics Industry Media",
+   "published": "2026-11-11",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Samsung Display Wins Two Automotive Cybersecurity Certifications THE ELEC, Korea Electronics Industry Media",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "307c11776158",
+   "title": "Samsung Display wins ISO/SAE 21434 cyber certification - Automotive World",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTjZYTjY2SGJBblFDMkJUbHVlSUwzSzBIVHpxMjdTOXZFbVNLRUk1azFaSW41RmcxVnNKX2FKUE02UWx5c3Q3S1hZb2tTZ0Y5alRRM0Y1bTVQdXhQbmVNTHlpSzhtLWRyaldYYmpTcngwaTBVcEpXd2Q3R1lNbE1pVnVFcGw0MHF1elU0a1RMdnNFVkZQRXBZ?oc=5",
+   "source": "Automotive World",
+   "published": "2026-11-11",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Samsung Display wins ISO/SAE 21434 cyber certification Automotive World",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "28d5f243db7c",
+   "title": "South Korea's SK Hynix LPDDR5X Simultaneously Secures Industrial Safety SIL 3 and Automotive Cybersecurity Certifications - BigGo Finance",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MM3RzZDNsOF9qaTJGVjVzWU5oQl9DU1hXM3Bya0g2OXlDU3hJVUw1ckhsYjFLMklyQ3JyZzBWWTdZb25CSEZJWks1T3dMMDlpeDFtTk0zbmllVkJQNGJXRHd4MzA3aDJQNmpPbXl5emNjeW1TOXc?oc=5",
+   "source": "BigGo Finance",
+   "published": "2026-11-11",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "South Korea's SK Hynix LPDDR5X Simultaneously Secures Industrial Safety SIL 3 and Automotive Cybersecurity Certifications BigGo Finance",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
   {
    "id": "28170027482f",
    "title": "Hackers Exploit ForgeRock WAF Bypass and RCE to Remotely Unlock and Start Cars From Two Automakers - GBHackers News",
@@ -11,6 +107,18 @@
    "category": "Keyless & access",
    "heat": 7,
    "summary": "Hackers Exploit ForgeRock WAF Bypass and RCE to Remotely Unlock and Start Cars From Two Automakers GBHackers News",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "fbab30012529",
+   "title": "A vulnerability has been discovered that could allow remote unlocking of cars; Toyota vehicles may be affected. - GIGAZINE",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHczgyd2p6UDRNUjF1NW5JT1pqa0VMUmxtc25xa0RLVWJVdW42ZU9lM3MxSmdmSFpjZkIyX2EtWG14a3Noc01jdXczemNONEVyUXVoRU01UzZwYUFseXlqNTdOTU9CamdqQWY1ZnJ3ZzlyV0NENlg5cXZB?oc=5",
+   "source": "GIGAZINE",
+   "published": "2026-11-10",
+   "category": "Keyless & access",
+   "heat": 5,
+   "summary": "A vulnerability has been discovered that could allow remote unlocking of cars; Toyota vehicles may be affected. GIGAZINE",
    "whyItMatters": "",
    "researchAngle": ""
   },
@@ -287,6 +395,30 @@
    "category": "Threat reports",
    "heat": 3,
    "summary": "Default Admin Password Let Researchers Remotely Control Cars From Two Automakers Mezha",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "918ca1b7ba96",
+   "title": "DQS certifies Samsung Display's automotive cybersecurity management - Cadillac News",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcHVLUzhmTmdLeFlDN2Q2MGpnYjNUWndzNHo4dzc0MkF3T0NCU0lhQm1LaWxNbTNfRFU0TTd3bm5kTk50aEROMTRabGpzWHNNQ2xiY1ZiWFZtN19Ta3NndmE5ZHRVNlR5OEhLRWxnUHZMMHloM0RfNXhFaFV6ajRWYl9xdkU3ZEF0TFlWbF8xRjE4VEpWaFdpRkxrem82aVRiQjlPcEdIQUxfVUtuQWt4RzZoZFE0SFZ5Y240MFp3aUcxV3FuUjdQWlczWU1LWi1jZHVOT0p1Ym1zenhvLUVjd2t3?oc=5",
+   "source": "Cadillac News",
+   "published": "2026-11-10",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "DQS certifies Samsung Display's automotive cybersecurity management Cadillac News",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "592297930766",
+   "title": "SK hynix Secures Safety Certification for Memory in Cars & AI Robots - Asia Business Outlook",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdEppWWlRVHVYckNiUHcxcDBreWhScWxxbFVkWi1Fb1psSzQwb1pzM1VhcFBtVXE5YWtVeDJUWkRqR09QeFJDc092cmFnZW1IdkVnN3VLemx5UDhydWV1VXVrNzJTb3E0clFYN1pCNjA4U2toZmpnTzc1S3VTejVhZE5hd0kxa05xcUhDdHpEMXVGWTU4QkNpbm1FUVhNYUw2am1lV19ucG9ReU9uLXN6Qmt4bjdCZHhCQmhqWjYwbkxmb1JJUXc?oc=5",
+   "source": "Asia Business Outlook",
+   "published": "2026-11-10",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "SK hynix Secures Safety Certification for Memory in Cars & AI Robots Asia Business Outlook",
    "whyItMatters": "",
    "researchAngle": ""
   },
@@ -2418,6 +2550,17 @@
   "340d2f13ce1b",
   "28170027482f",
   "829cf5153f9f",
-  "fc5df731d96b"
+  "fc5df731d96b",
+  "6ef677aa3015",
+  "4c5f07b26f27",
+  "316fdbda2249",
+  "a72142c29094",
+  "5c1ffe796a06",
+  "307c11776158",
+  "28d5f243db7c",
+  "918ca1b7ba96",
+  "592297930766",
+  "fbab30012529",
+  "36a84cd5ea2a"
  ]
 }
