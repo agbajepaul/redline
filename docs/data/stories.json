@@ -1,7 +1,31 @@
 {
- "lastUpdated": "2026-11-11",
- "briefing": "11 new stories today. Top heat: “A vulnerability has been discovered that could allow remote unlocking of cars; Toyota vehicles may be affected. - GIGAZINE” (5/10, Keyless & access). Busiest topic: Threat reports (5).",
+ "lastUpdated": "2026-11-12",
+ "briefing": "2 new stories today. Top heat: “Two automakers change security systems two hours after alerted of vulnerability - Repairer Driven News” (3/10, Threat reports). Busiest topic: Threat reports (2).",
  "stories": [
+  {
+   "id": "bf3ae805d205",
+   "title": "Two automakers change security systems two hours after alerted of vulnerability - Repairer Driven News",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVUtuM3pjWU5BZVc0bGhIcVV0YUVMbEE3Nzk1QS1XNHc3NGxKYnpmWWVQUFRxS052MzZlaFBKdUFrSGxmTG4wT0hsckE5RmdhTW56UXIwc25qVFNiNkRPYUpnNVNGQVBZNG1La0NQaWxhTTFmU2U1ZGJlZm9TYldJUndvUUlPTUhWeUZoX1hMazF3Qy1JRlVLbURkZFN5Y1hiUWNEY05VY1h5Y2s1Si1zbEhhVkR1bUdFdzlfLVI3cGFQcmpX?oc=5",
+   "source": "Repairer Driven News",
+   "published": "2026-11-12",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Two automakers change security systems two hours after alerted of vulnerability Repairer Driven News",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "91f7150a250e",
+   "title": "Suits & Settlements: The Car Pro Legal Roundup - CarProUSA.com.",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYzZCcTlaOERRczVoYm5NdjgyMjQ1U0txMW83dkNCb1JzTmhhcGRMVFVsLS0xMWxfTmdqeThsaEdNRHpZQnR4a0lmR3hPZXJDRmxQYUJoVno5TzU0VEJYMm5xdkZpLWtNcG84eDh5Y2JjOFdoa0NQekJueDZvd21JSGg2Zm5HQzVYZHBiRFZRZzV6R2dSRWY4QXdtYWJTemhVR0NaUngtekpSd9IBqgFBVV95cUxPYzZCcTlaOERRczVoYm5NdjgyMjQ1U0txMW83dkNCb1JzTmhhcGRMVFVsLS0xMWxfTmdqeThsaEdNRHpZQnR4a0lmR3hPZXJDRmxQYUJoVno5TzU0VEJYMm5xdkZpLWtNcG84eDh5Y2JjOFdoa0NQekJueDZvd21JSGg2Zm5HQzVYZHBiRFZRZzV6R2dSRWY4QXdtYWJTemhVR0NaUngtekpSdw?oc=5",
+   "source": "CarProUSA.com.",
+   "published": "2026-11-12",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Suits & Settlements: The Car Pro Legal Roundup CarProUSA.com.",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
   {
    "id": "36a84cd5ea2a",
    "title": "Smartphones can unlock other people's cars as security flaw found - 디지털투데이",
@@ -2561,6 +2585,8 @@
   "918ca1b7ba96",
   "592297930766",
   "fbab30012529",
-  "36a84cd5ea2a"
+  "36a84cd5ea2a",
+  "bf3ae805d205",
+  "91f7150a250e"
  ]
 }
