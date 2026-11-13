@@ -1,7 +1,67 @@
 {
- "lastUpdated": "2026-11-12",
- "briefing": "2 new stories today. Top heat: “Two automakers change security systems two hours after alerted of vulnerability - Repairer Driven News” (3/10, Threat reports). Busiest topic: Threat reports (2).",
+ "lastUpdated": "2026-11-13",
+ "briefing": "6 new stories today. Top heat: “In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach” (3/10, Telematics & privacy). Busiest topic: Threat reports (3).",
  "stories": [
+  {
+   "id": "c3cb9f990617",
+   "title": "In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach",
+   "url": "https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/",
+   "source": "SecurityWeek",
+   "published": "2026-11-13",
+   "category": "Telematics & privacy",
+   "heat": 3,
+   "summary": "Noteworthy stories that might have slipped under the radar: Siemens details security advisory policy, OpenAI Codex backdoor risk, Microsoft warns of model weight backdoors. The post In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach appeared first on SecurityWeek .",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "d3d6070d89b1",
+   "title": "OverServe: Resource Amplification Attacks on SaaS Agents via Tool--Prompt Co-Design",
+   "url": "https://arxiv.org/abs/2611.14808",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-13",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "arXiv:2611.14808v1 Announce Type: new Abstract: Advances in large language models (LLMs) are enabling software-as-a-service (SaaS) providers to automate longer business workflows with agents. In subscription-based SaaS deployments, model and tool calls consume provider resources without additional customer payments. Because the agent autonomously decides when to stop, a malicious tenant can send a",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "a2252ce91652",
+   "title": "FOE-Dreamer: Deployment-Efficient Learning of Cyber Defense Policies in Operational Networks",
+   "url": "https://arxiv.org/abs/2611.14880",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-13",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "arXiv:2611.14880v1 Announce Type: cross Abstract: Autonomous cyber defense is widely studied with deep reinforcement learning, but most work trains policies inside simulators because learning requires many trial-and-error interactions. Simulator-based training carries a fidelity gap: trained policies face authentication delays, partial action failures, service dependencies, and user traffic patter",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "441b0d6f2b8c",
+   "title": "Electronics over engines: Is India's next automotive growth story being written in semiconductors? - Manufacturing Today India",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pWmlKTENPMWpRSzlFWm56cGNDREVqT3M0VG92MVd3bDhtalU2MWx6QWlJZy1QeVFVa1V1UWMwWXA3VG4xR0t3RUhFeWJiRkNaUEhYSU11OFJrRmRNd1Q2ODlYb19XUjFha19pNlhGdkhSdw?oc=5",
+   "source": "Manufacturing Today India",
+   "published": "2026-11-13",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Electronics over engines: Is India's next automotive growth story being written in semiconductors? Manufacturing Today India",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "26412cd129b4",
+   "title": "“Information-Gathering Devices on Wheels”: Chinese Connected-Car Security Threats Materialize as Access Restrictions Spread from Military Facilities to Industrial Sites - https://economy.ac/",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCNlVPSHNYSUNuNTVMVXVwcURUZlQyLWVQc3VsWDRVSDNDbXVUMVdmWGdGdzhycmJTUTFrZVp0SkxrYklOZ1NHMm9SWE41UmtxNHV2Q2haOA?oc=5",
+   "source": "https://economy.ac/",
+   "published": "2026-11-13",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "“Information-Gathering Devices on Wheels”: Chinese Connected-Car Security Threats Materialize as Access Restrictions Spread from Military Facilities to Industrial Sites https://economy.ac/",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
   {
    "id": "bf3ae805d205",
    "title": "Two automakers change security systems two hours after alerted of vulnerability - Repairer Driven News",
@@ -23,6 +83,18 @@
    "category": "Threat reports",
    "heat": 3,
    "summary": "Suits & Settlements: The Car Pro Legal Roundup CarProUSA.com.",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "fe04a3a837dc",
+   "title": "Edge Auto Chips Market Set to Surge from US$2.5 Billion in 2026 to US$8.2 Billion by 2033 - openPR.com",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV2d6d2ZBZUsxUFAtN1l5MjBNbnF4Y1hSbUVNanhmd2psbG4zZUJQTVYzUGJJUFQ5RlR3Ri1NbUdqTzV2SnJrbzNKZzBLZHp5RVFPSXFMaW1CazRaLUZSR0pqdldYczlhU3o3YUpremlzcWo3Tzc4UHc0cHpCR1Q2Q0lIeGdmaUZzbjJuZ0hQcF9PU3diUGgxVDlhMHRyZjI5?oc=5",
+   "source": "openPR.com",
+   "published": "2026-11-12",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Edge Auto Chips Market Set to Surge from US$2.5 Billion in 2026 to US$8.2 Billion by 2033 openPR.com",
    "whyItMatters": "",
    "researchAngle": ""
   },
@@ -2587,6 +2659,12 @@
   "fbab30012529",
   "36a84cd5ea2a",
   "bf3ae805d205",
-  "91f7150a250e"
+  "91f7150a250e",
+  "c3cb9f990617",
+  "d3d6070d89b1",
+  "a2252ce91652",
+  "441b0d6f2b8c",
+  "fe04a3a837dc",
+  "26412cd129b4"
  ]
 }
