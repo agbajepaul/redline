@@ -1,6 +1,6 @@
 {
- "lastUpdated": "2026-11-13",
- "briefing": "6 new stories today. Top heat: “In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach” (3/10, Telematics & privacy). Busiest topic: Threat reports (3).",
+ "lastUpdated": "2026-11-14",
+ "briefing": "1 new story today. Top heat: “Researcher Creates Hack to Steer Tesla With Switch 2 [VIDEO] - Not a Tesla App” (3/10, Telematics & privacy).",
  "stories": [
   {
    "id": "c3cb9f990617",
@@ -59,6 +59,18 @@
    "category": "Threat reports",
    "heat": 3,
    "summary": "“Information-Gathering Devices on Wheels”: Chinese Connected-Car Security Threats Materialize as Access Restrictions Spread from Military Facilities to Industrial Sites https://economy.ac/",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "831be6924317",
+   "title": "Researcher Creates Hack to Steer Tesla With Switch 2 [VIDEO] - Not a Tesla App",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONjltVkxjVTA2bG9FbDM4bTFUaTBGdjFfT2xiN1BsWTZnRUZPckFJTFZDVEdvdVJNWENKNV9fOGNqTzE3V0ZhaUg3aklsVEtycUcwV0w3NVlsOHJsRXRiNG5iTnVlQWhlZTQtRllqUVgzNHJlT1hJRURpU1lDaG9Sb2FFVGpvTmhNbmNVbERfRG9mb0liYmgxQnJHYktLZw?oc=5",
+   "source": "Not a Tesla App",
+   "published": "2026-11-13",
+   "category": "Telematics & privacy",
+   "heat": 3,
+   "summary": "Researcher Creates Hack to Steer Tesla With Switch 2 [VIDEO] Not a Tesla App",
    "whyItMatters": "",
    "researchAngle": ""
   },
@@ -2665,6 +2677,7 @@
   "a2252ce91652",
   "441b0d6f2b8c",
   "fe04a3a837dc",
-  "26412cd129b4"
+  "26412cd129b4",
+  "831be6924317"
  ]
 }
