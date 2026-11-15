@@ -1,7 +1,19 @@
 {
- "lastUpdated": "2026-11-14",
- "briefing": "1 new story today. Top heat: “Researcher Creates Hack to Steer Tesla With Switch 2 [VIDEO] - Not a Tesla App” (3/10, Telematics & privacy).",
+ "lastUpdated": "2026-11-15",
+ "briefing": "1 new story today. Top heat: “Automotive Cybersecurity Researcher Uses Switch 2 Controller to Control Tesla Vehicle Functions - 网通社” (3/10, Threat reports).",
  "stories": [
+  {
+   "id": "d96489a26e1e",
+   "title": "Automotive Cybersecurity Researcher Uses Switch 2 Controller to Control Tesla Vehicle Functions - 网通社",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tcnZNMzR2ZE1QTUEtdDF0bXBXVGtWMnZ6WnI3QVhkbHdiclVfVmpxdWN0OXMwYmJnM3BNSi0tejlzWTNwQ1JZeDZKQW9YRTN1cUdnNG84TXRlSks3?oc=5",
+   "source": "网通社",
+   "published": "2026-11-15",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Automotive Cybersecurity Researcher Uses Switch 2 Controller to Control Tesla Vehicle Functions 网通社",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
   {
    "id": "c3cb9f990617",
    "title": "In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach",
@@ -2678,6 +2690,7 @@
   "441b0d6f2b8c",
   "fe04a3a837dc",
   "26412cd129b4",
-  "831be6924317"
+  "831be6924317",
+  "d96489a26e1e"
  ]
 }
