@@ -1,7 +1,79 @@
 {
- "lastUpdated": "2026-11-15",
- "briefing": "1 new story today. Top heat: “Automotive Cybersecurity Researcher Uses Switch 2 Controller to Control Tesla Vehicle Functions - 网通社” (3/10, Threat reports).",
+ "lastUpdated": "2026-11-16",
+ "briefing": "6 new stories today. Top heat: “CANTraj: Recovering Vehicle Trajectories from CAN Signals in Naturalistic Driving” (6/10, Cellular & radio). Busiest topic: AV perception & AI (3).",
  "stories": [
+  {
+   "id": "363a1c70cf8f",
+   "title": "CANTraj: Recovering Vehicle Trajectories from CAN Signals in Naturalistic Driving",
+   "url": "https://arxiv.org/abs/2611.18442",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-16",
+   "category": "Cellular & radio",
+   "heat": 6,
+   "summary": "arXiv:2611.18442v1 Announce Type: new Abstract: Open driving releases and usage-based insurance programs often claim to prevent privacy breaches by omitting GPS records when sharing or collecting vehicle data. However, removing GPS coordinates from driving logs does not erase the location information carried by vehicle signals. While prior route-inference attacks have demonstrated that speed, stee",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "10d373a62ac2",
+   "title": "China-Nexus Actors Breach 10 Organizations in AI-Driven Attacks",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-nexus-actors-breach-10-organizations-ai-driven-attacks",
+   "source": "Dark Reading",
+   "published": "2026-11-16",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "Attackers used Cairn once again in autonomous attacks that targeted advanced manufacturing and defense sectors, as well as civil and human rights organizations.",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "5adf36e942de",
+   "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
+   "url": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
+   "source": "The Hacker News",
+   "published": "2026-11-16",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI, and PentAGI to execute multi-stage intrusions at greater operational velocity. In tandem, threat actors are leveraging the power and capabilities of large language models (LLMs)",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "678d060ed943",
+   "title": "Inferring Sensitive Events in Multi-Mode Cyber-Physical Systems via Scheduling Side Channels",
+   "url": "https://arxiv.org/abs/2611.17761",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-16",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "arXiv:2611.17761v1 Announce Type: new Abstract: Many cyber-physical systems (CPS) are multi-mode: they switch between operating modes with different tasksets and timing parameters in response to physical events or user activity. We show that these mode changes create a timing side channel: by altering the interference experienced by co-running tasks, they let an unprivileged co-resident observer i",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "d756652aa558",
+   "title": "Information-Theoretic Threshold Designated-Verifier Digital Signatures for Resource-Constrained Devices",
+   "url": "https://arxiv.org/abs/2611.18355",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-16",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "arXiv:2611.18355v1 Announce Type: new Abstract: Digital signatures are synonymous with data integrity and authenticity. Among applications such as e-commerce, software distribution, and instruction processing they play a vital role in the secure communication of data. Within this context and in preparation for quantum adversarial tactics we present three new information-theoretic threshold designa",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "58b2de43fab3",
+   "title": "Fair and Efficient Distributed EV Charging Coordination Using Threshold Cryptography and Machine Learning",
+   "url": "https://arxiv.org/abs/2611.17577",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-16",
+   "category": "EV charging",
+   "heat": 3,
+   "summary": "arXiv:2611.17577v1 Announce Type: cross Abstract: Distributed coordination of electric vehicle (EV) charging with the alternating direction method of multipliers (ADMM) keeps EV constraints private but assumes that every participant follows the algorithm. This assumption fails in practice, where a biased operator or a man-in-the-middle (MITM) attacker can send inconsistent signals to different EVs",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
   {
    "id": "d96489a26e1e",
    "title": "Automotive Cybersecurity Researcher Uses Switch 2 Controller to Control Tesla Vehicle Functions - 网通社",
@@ -2691,6 +2763,12 @@
   "fe04a3a837dc",
   "26412cd129b4",
   "831be6924317",
-  "d96489a26e1e"
+  "d96489a26e1e",
+  "10d373a62ac2",
+  "5adf36e942de",
+  "678d060ed943",
+  "d756652aa558",
+  "363a1c70cf8f",
+  "58b2de43fab3"
  ]
 }
