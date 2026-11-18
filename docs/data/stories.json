@@ -1,7 +1,115 @@
 {
- "lastUpdated": "2026-11-17",
- "briefing": "12 new stories today. Top heat: “AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says” (3/10, AV perception & AI). Busiest topic: AV perception & AI (7).",
+ "lastUpdated": "2026-11-18",
+ "briefing": "10 new stories today. Top heat: “Threat Landscape of Vibe Coding and the Road to Secure Autonomy” (3/10, AV perception & AI). Busiest topic: AV perception & AI (4).",
  "stories": [
+  {
+   "id": "d14d8001b3b4",
+   "title": "Threat Landscape of Vibe Coding and the Road to Secure Autonomy",
+   "url": "https://arxiv.org/abs/2611.21822",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-18",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "arXiv:2611.21822v1 Announce Type: new Abstract: Vibe coding is reshaping software development, enabling faster implementation and allowing individuals with limited programming experience to describe requirements in natural language while AI agents write, test, and deploy the code. As these agents evolve into autonomous systems that execute commands, manage dependencies, access cloud resources, and",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "ce3d0b073449",
+   "title": "From Attack Tree to Model Checker: Binding CAPEC Patterns to Verify Robotic System Security",
+   "url": "https://arxiv.org/abs/2611.22408",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-18",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "arXiv:2611.22408v1 Announce Type: new Abstract: Security-minded verification of autonomous and robotic systems presupposes an attacker, yet the path from a threat catalogue to a checkable attacker model is still traversed by hand. This research preview presents the theory and construction of a pipeline that mechanises it. Each leaf of an attack tree is mapped to a CAPEC attack pattern and written ",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "713596f8446f",
+   "title": "Adaptive LLM-Driven Honeypots vs. LLM-Driven Attackers: Does Narrative Coherence Improve Deception?",
+   "url": "https://arxiv.org/abs/2611.22589",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-18",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "arXiv:2611.22589v1 Announce Type: new Abstract: Large Language Models (LLMs) enable honeypots to generate responses and deceptive artefacts on demand, yet existing approaches evaluate generated content one reply at a time and leave open whether artefacts that jointly describe a coherent event retain an attacker better than unrelated ones. This question becomes pressing as autonomous LLM-driven off",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "5286eeea5fe0",
+   "title": "Guarded Swarms in the Loop: A ROS 2/PX4 Digital Twin for Hybrid Digital-Analog Coordination of UAV/UGV Swarms",
+   "url": "https://arxiv.org/abs/2611.22773",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-18",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "arXiv:2611.22773v1 Announce Type: new Abstract: Swarms of unmanned aerial and ground vehicles (UAV/UGV) operating in contested environments cannot rely on software alone for physical safety, since the software stack and its networks are part of the attack surface. The Guarded Swarms architecture addresses this by pairing a digital coordination layer, built on Topic-Based Communication Space Petri ",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "232bbaa66f02",
+   "title": "CaFe: Causally Faithful Conditional Traffic Scenario Generation",
+   "url": "https://arxiv.org/abs/2611.22855",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-18",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "arXiv:2611.22855v1 Announce Type: new Abstract: Language-conditioned traffic simulation enables scalable test scenarios steered by natural language. The goal is to control selected agents while surrounding traffic reacts to their observed behaviour. For example, a vehicle instructed to cut in late should cause the following vehicle to brake only when the manoeuvre becomes observable. Yet simulator",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "77990e0ac3c5",
+   "title": "V2V Communications Using Blockchain-Enabled 6G Technology and Federated Learning",
+   "url": "https://arxiv.org/abs/2611.21932",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-18",
+   "category": "Telematics & privacy",
+   "heat": 3,
+   "summary": "arXiv:2611.21932v1 Announce Type: cross Abstract: This study proposes an interesting approach for vehicle-to-vehicle (V2V) communication, which integrates blockchain technology, federated learning (FL), and allocation optimization of latency and resources. The research evaluates the proposed system using various performance metrics such as packet delivery ratio (PDR), model accuracy, and latency a",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "186b774f399b",
+   "title": "CyBiasBench: Benchmarking Bias in LLM Agents for Cyber-Attack Scenarios",
+   "url": "https://arxiv.org/abs/2605.07830",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-18",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "arXiv:2605.07830v2 Announce Type: replace Abstract: Large language models (LLMs) are increasingly deployed as autonomous agents in offensive cybersecurity. In this paper, we reveal an interesting phenomenon: different agents exhibit distinct attack patterns. Specifically, agents exhibit distinct attack-selection biases, differing in both the families they explore and the concentration of their eff",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "4bbc1db9d7ac",
+   "title": "Connected Cars Market (2033): 5G Connectivity, V2X - openPR.com",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeVpaUmdSbWxYRzk1ZTdUQ2stU0pPSmw0UkVKUlVpSjhabEtpWngxQmRkUHpOb2lJZXU0R2ZrcVB5b3o0VWVPeU15QktyZzdUZmh4alJWOVFzTFU3WEdXb3hJdS03c25MSldUVllKbkJqT3E3RS0tMHlnOUZsUTVKemdiVEhIY3VJeVE?oc=5",
+   "source": "openPR.com",
+   "published": "2026-11-18",
+   "category": "Cellular & radio",
+   "heat": 3,
+   "summary": "Connected Cars Market (2033): 5G Connectivity, V2X openPR.com",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "eaf67c92b30f",
+   "title": "Researchers Hack Volkswagen EV, Access Phone Data and Control Vehicle Functions - The 420.in",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8telVwY21ELWp2UWYwN1owRERIdTViNWhXM1ZDd0tDcVVYbFo2SVZTZkNtMWhqQllWQThRU0Fld2NXY3U2LXIwb3BlU195aV8xSnl0SFFrNE05SlQwVXIwTHREaVFKeDhaTlJ1RUxheXk?oc=5",
+   "source": "The 420.in",
+   "published": "2026-11-18",
+   "category": "Telematics & privacy",
+   "heat": 3,
+   "summary": "Researchers Hack Volkswagen EV, Access Phone Data and Control Vehicle Functions The 420.in",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
   {
    "id": "b420612fe6cb",
    "title": "AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says",
@@ -119,6 +227,18 @@
    "category": "Threat reports",
    "heat": 3,
    "summary": "Automotive Cybersecurity Market Forecast to Reach US$24.80 openPR.com",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "8fb9148282b7",
+   "title": "Microsoft Went Dark. A Truck Maker’s Earnings Call Blinked. Car Dealers Mostly Shrugged. - The Auto Wire",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDTEFSbU5rX1c0eHpoMm92QkhCS2xmWTlab2owcldNYnpHd3hjUkRvaWY1V3dDTFFFYVpjZ3NvTUxvdEVJR3QxTmVWS0VyOVRvNEM0RW0tYTZDby1GTVlyYm00ejNSckcySW1hYU92clVBQnJjckV1RmtZZ3lyYzQ?oc=5",
+   "source": "The Auto Wire",
+   "published": "2026-11-17",
+   "category": "Supply chain & dealers",
+   "heat": 3,
+   "summary": "Microsoft Went Dark. A Truck Maker’s Earnings Call Blinked. Car Dealers Mostly Shrugged. The Auto Wire",
    "whyItMatters": "",
    "researchAngle": ""
   },
@@ -2925,6 +3045,16 @@
   "db443153ac07",
   "5ed55afb9e6c",
   "c3aa15426bac",
-  "23527fb5986b"
+  "23527fb5986b",
+  "d14d8001b3b4",
+  "ce3d0b073449",
+  "713596f8446f",
+  "5286eeea5fe0",
+  "232bbaa66f02",
+  "77990e0ac3c5",
+  "186b774f399b",
+  "8fb9148282b7",
+  "4bbc1db9d7ac",
+  "eaf67c92b30f"
  ]
 }
