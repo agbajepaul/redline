@@ -1,7 +1,43 @@
 {
- "lastUpdated": "2026-11-18",
- "briefing": "10 new stories today. Top heat: “Threat Landscape of Vibe Coding and the Road to Secure Autonomy” (3/10, AV perception & AI). Busiest topic: AV perception & AI (4).",
+ "lastUpdated": "2026-11-19",
+ "briefing": "3 new stories today. Top heat: “Who Is Behind the Harness? Verifying Model Identity in Coding Agents through Behavioral Fingerprinting” (5/10, AV perception & AI). Busiest topic: Threat reports (2).",
  "stories": [
+  {
+   "id": "976b37a6b4c7",
+   "title": "Who Is Behind the Harness? Verifying Model Identity in Coding Agents through Behavioral Fingerprinting",
+   "url": "https://arxiv.org/abs/2609.28559",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-19",
+   "category": "AV perception & AI",
+   "heat": 5,
+   "summary": "arXiv:2609.28559v2 Announce Type: replace Abstract: LLMs increasingly operate through coding-agent harnesses that inspect repositories, invoke tools, and modify files. Substituting the model behind such an agent can therefore change security-relevant decisions, including whether it verifies changes or recovers safely from failures. Existing LLM fingerprints largely infer identity from direct text ",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "4c63bfd73312",
+   "title": "8 Automotive Cybersecurity Companies: Who to Watch in 2026 - Cyber Press",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11aml5VjRMdDlGaDdvcVVYcUNOVnlZWm9YOHliaGNyLVZ3eTBmU0hpc1BtMktQZHJXMTBHOUFYV3M1cmdaT0FkNDFJQ2RXdXMwUUtsdExFbjRiM0xwT09zSnd3Q1NqclJTLTR4TnV30gFuQVVfeXFMTXVqaXlWNEx0OUZoN29xVVhxQ05WeVlab1g4eWJoY3ItVnd5MGZTSGlzUG0yS1BkclcxMEc5QVhXczVyZ1pPQWQ0MUlDZFd1czBRS2x0TEVuNGIzTHBPT3NKd3dDU2pyUlMtNHhOdXc?oc=5",
+   "source": "Cyber Press",
+   "published": "2026-11-19",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "8 Automotive Cybersecurity Companies: Who to Watch in 2026 Cyber Press",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "4f4bd76b2584",
+   "title": "Up to three-year PUC validity proposed for newer BS-VI non-transport vehicles - The Statesman",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPT1VXTEdmal9NMkM4aEhNWFhUc0RiSTBmeDVBUnYwV2dHWkdtek1sQ091azJGN05aY2dGMVozbC1Ea2VCUkN4OWZVQ05zUE1RZElrM3AxLU15ZHNFUWthMUdYTEt6OXN6TEV3MWEzVXh3Q2dOczhvYmM2ZmVTdnNhdWxlVGYxRUY2ZENZdlFWTktHS2ZRQ1l4OHJwZjFLbWtRNlBWWGtaUW9kTVR5VDI3UkYyNGxWelhBVWwtS2Zia0xCV3BFMXg5d0RMZlhsUFFNdXRZ0gHYAUFVX3lxTFBxd21QcDJ0RFB3cE9Od0syMVVTZXU0bkRMYXFOX3BkamVwb29lLW82bGFKZDdxb0ZvVGszcG8zYnRBQ2pPcnRyaGVKNEpBMmZWaUJNVjVSbW1TdjlPcVNrTDJYaHNXOUdVcWRJRElYU0lXTThqSGlSS3hnRXNOSXgtWEFnQ3JlM2lpcnIzbTd3TGZYSklTR3hGN29vOWd2TU1uTUtJUG0xdmRka3h3cFN5SmFTOFl0ak5mZExvblZVX1hmWlFKVEFKbUpXd1U3b1dnR3g3alA0Yg?oc=5",
+   "source": "The Statesman",
+   "published": "2026-11-19",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Up to three-year PUC validity proposed for newer BS-VI non-transport vehicles The Statesman",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
   {
    "id": "d14d8001b3b4",
    "title": "Threat Landscape of Vibe Coding and the Road to Secure Autonomy",
@@ -3055,6 +3091,9 @@
   "186b774f399b",
   "8fb9148282b7",
   "4bbc1db9d7ac",
-  "eaf67c92b30f"
+  "eaf67c92b30f",
+  "976b37a6b4c7",
+  "4c63bfd73312",
+  "4f4bd76b2584"
  ]
 }
