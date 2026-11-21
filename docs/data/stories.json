@@ -1,7 +1,43 @@
 {
- "lastUpdated": "2026-11-20",
- "briefing": "17 new stories today. Top heat: “Hackers use autonomous AI tool Cairn to find zero-day, take over server” (6/10, AV perception & AI). Busiest topic: AV perception & AI (8).",
+ "lastUpdated": "2026-11-21",
+ "briefing": "8 new stories today. Top heat: “Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day” (8/10, AV perception & AI). Busiest topic: AV perception & AI (4).",
  "stories": [
+  {
+   "id": "6231e48f3bee",
+   "title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
+   "url": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
+   "source": "SecurityWeek",
+   "published": "2026-11-21",
+   "category": "AV perception & AI",
+   "heat": 8,
+   "summary": "A threat actor used autonomous Cairn AI agents to discover and exploit a critical MONAI Label vulnerability. The post Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day appeared first on SecurityWeek .",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "16765aea3bd9",
+   "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+   "url": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+   "source": "The Hacker News",
+   "published": "2026-11-21",
+   "category": "AV perception & AI",
+   "heat": 6,
+   "summary": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence said this week. The flaw allows an attacker with no account to write files outside the server's storage folder, and it affects MONAI Label 0.8.5 and earlier in the default setup,",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "95adf7422f05",
+   "title": "Self-Driving Cybersecurity Needs New Thinking: 2 UN Rules - shattered.io",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY18wZS1qR1NaVUQxeG51XzBGbUhpYU1PM3E3emg2ZEQ5RW5iWndJYVozSS1nNF9nV2VBTnhRczhlakNGY0pvYzhCbDk5dXpScUI1UUhqWUtsR2R5QU02US1SRnZKY29nckFLanpEb0swbVNkanFONUlSYzIxQ1BrTkRtVFRGRDdtakQxM3ZHeVNuaTZpZnZMcQ?oc=5",
+   "source": "shattered.io",
+   "published": "2026-11-21",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "Self-Driving Cybersecurity Needs New Thinking: 2 UN Rules shattered.io",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
   {
    "id": "0abe4221510a",
    "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
@@ -167,6 +203,66 @@
    "category": "Infotainment",
    "heat": 3,
    "summary": "Hackers Can Hijack VW Cars Via Bluetooth Flaw Wisevoter",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "09a38cc5919d",
+   "title": "Self-Driving Vehicles Demand New Cybersecurity Thinking - Mobility Engineering Technology",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObkRHb21SSFlvbncyRlZxaGZtaTVKSF8zcjJtQXF0WXpaQzB1aldJUklpZ3dLZXNYSUF1eFo5VHlrc2lxTG5SVHhpeEowTXgzanM0Y3VKTV9yY0pHTDREWXFIN0szMlhTcF82ZGh2Q3U3QkJ5Z3ZiYXIzeDRJdnBiUDdrRjRoNF9kZENGUExYZnBoUXU1bnR6VkJYaG5VendZNUp6eEtSY1JndFN5emdwX3FzTHpFbkhDUlpNZmFPRXhfNXdTR1E?oc=5",
+   "source": "Mobility Engineering Technology",
+   "published": "2026-11-20",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "Self-Driving Vehicles Demand New Cybersecurity Thinking Mobility Engineering Technology",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "903e59ad8e5a",
+   "title": "Automotive Cybersecurity: Why you should be concerned? - ET Auto",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN2xKUUxwNGpfZU9YT1I1WHg5LTVaelNiS1NGX29WMjFScmJfcjJqZTFPOVBkSzhMWU56YjdEX1k4TTNkWDFXWHppaXNPSFBUeWpoT0RDWFVieFlSUV9hdXNVN1h5aXNzQlNoeUxOVFRhZVpQSGlWdXFBdEl6cF9ibVJxZW5wNHFkTUg0SlNxRXpJbnhXRG1uZ05JUXRaZWpYQ0dvT3RPSnVTemxtUi13ekNoU0l2Tk1rbmNOWTVGeUNFV1U2VHFNUFNHZF_SAccBQVVfeXFMTXlOOGE1eG1hbXFNOFh3ZzJKOHY5Y3NMQWRVOFdDdzF1cjVKcmM1MGNmekM3OThJdFJ0MFZUajIxaFhqV3RTaThtdWFkZWJmY0x5Zkh3aTNFX1FMc1JOcVNURVozNTJFaUhsaXZ1aUZzTDJWZFdpaFVMZC1LOXRILTg1TUdIWHFENkhadC1aOGQzemVQd0JtOHRGRkg1UXZlWW9sY29SOHRwQ3FQM015VWRCUklUX3lBaGc0SDVRaWpaQUF4MGxXMA?oc=5",
+   "source": "ET Auto",
+   "published": "2026-11-20",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Automotive Cybersecurity: Why you should be concerned? ET Auto",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "707c5a536fd7",
+   "title": "Toyota recalls 314,029 vehicles in the U.S.-Internet Info Agency - 网通社",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xRnlMcHk3aU5SRy1wYzF6TVA2ekdHcmNvSmlGaktnYXBVWHAtMWxhRzFVTk9nV1NnNjJfRkRYVUhONVpxMzVaYmVqNVM1bm1oT2pmaTdZQnc4ZlNkRGRMYlNR?oc=5",
+   "source": "网通社",
+   "published": "2026-11-20",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Toyota recalls 314,029 vehicles in the U.S.-Internet Info Agency 网通社",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "5ef72acc6e8a",
+   "title": "Nissan Shuts Down Vehicle Diagnostic System - Wisevoter",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSXlHdjVQeXpkZExqOUNJczBSVnlLaWNzaDZ1MURjcnJpdWFLR3VSb2RCV21WSTdZRnl1Ym9TMkxkQnFPbk9GcDlZUHg5QzI2Sm5jNnhsTW9HaGpCNUhVaFdrNldNTk5xcEZaRkhyVzBUX1lZbnFCZWxpYnBxblAydk5LeFFUejZndVE?oc=5",
+   "source": "Wisevoter",
+   "published": "2026-11-20",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Nissan Shuts Down Vehicle Diagnostic System Wisevoter",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "3a9449b3e403",
+   "title": "Hackers Can Exploit Volkswagen Bluetooth Flaw to Spy on Drivers and Track Vehicles - Cyber Press",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oeEZzWVJTVW0wcXBmbkZsb21LNFhyTGRIem53MENBWWl5SElPaXlPRXhlcTJDUVlRYllLM3lTY0xVV25rOGJ5ZzlnOVZYcDgzZlNwMTlPQXZzTkdicjE0VC1WdnFLTU5BZk1PcEVKUnrSAXBBVV95cUxNaHhGc1lSU1VtMHFwZm5GbG9tSzRYckxkSHpudzBDQVlpeUhJT2l5T0V4ZXEyQ1FZUWJZSzN5U2NMVVduazhieWc5ZzlWWHA4M2ZTcDE5T0F2c05HYnIxNFQtVnZxS01OQWZNT3BFSlJ6?oc=5",
+   "source": "Cyber Press",
+   "published": "2026-11-20",
+   "category": "Infotainment",
+   "heat": 3,
+   "summary": "Hackers Can Exploit Volkswagen Bluetooth Flaw to Spy on Drivers and Track Vehicles Cyber Press",
    "whyItMatters": "",
    "researchAngle": ""
   },
@@ -3315,6 +3411,14 @@
   "c228ac4f50b9",
   "47f6378084dc",
   "e8846af21b5a",
-  "d6eaf3c98470"
+  "d6eaf3c98470",
+  "6231e48f3bee",
+  "16765aea3bd9",
+  "09a38cc5919d",
+  "903e59ad8e5a",
+  "95adf7422f05",
+  "707c5a536fd7",
+  "5ef72acc6e8a",
+  "3a9449b3e403"
  ]
 }
