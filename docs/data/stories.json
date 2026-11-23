@@ -1,7 +1,115 @@
 {
- "lastUpdated": "2026-11-22",
- "briefing": "No new stories today. Below are the latest from previous days.",
+ "lastUpdated": "2026-11-23",
+ "briefing": "9 new stories today. Top heat: “Do Alice and Bob Dream of the Oracle? Wishful Cryptanalysis” (3/10, AV perception & AI). Busiest topic: Threat reports (4).",
  "stories": [
+  {
+   "id": "c6e182f058dc",
+   "title": "Do Alice and Bob Dream of the Oracle? Wishful Cryptanalysis",
+   "url": "https://arxiv.org/abs/2611.27729",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-23",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "arXiv:2611.27729v1 Announce Type: new Abstract: For two millennia, offense and defense have forged cryptographic security boundaries. Tools automated calculation and search, while humans drove discovery. Foundation models now mark a shift from automated computation to intelligent scientific discovery. Because cryptanalysis rests on exact mathematical definitions and immediately executable truth, i",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "9d87b20872e4",
+   "title": "Autonomous Parameter Surgery: How LLMs Implant Selective Backdoors into Language Models",
+   "url": "https://arxiv.org/abs/2611.27920",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-23",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "arXiv:2611.27920v1 Announce Type: new Abstract: Neural network weights are usually treated as opaque artifacts of gradient descent. Recent work on weight space programming, however, suggests that large language models can inspect and rewrite another network's parameters directly. In this paper, we ask whether a general language model can turn a natural language backdoor specification into persiste",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "3d398f507243",
+   "title": "SYSEVOLVE: Safe, Autonomous Attack-Defense Co-evolution for Evolving Cyber Defense",
+   "url": "https://arxiv.org/abs/2608.15012",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-23",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "arXiv:2608.15012v2 Announce Type: replace Abstract: The offensive capability of large language models (LLMs) has crossed from research demonstration into documented reality. Frontier models have autonomously breached real production systems, and open-weight models now deliver frontier-level exploitation at negligible cost. Existing defenses cannot keep pace with such attacks: human-intensive defen",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "6879b983be78",
+   "title": "11 Automotive Cybersecurity Companies: The 2026 Buyer’s Verdict Guide - GBHackers News",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLSHlZVHQxeHFtRGxJVktFQWg3VDRqNkY5ejlkMWZiVVg3enFJclN3RGcyTWI3dE1yajhPSlZrbWludUtDS1JjbzM2Yi16UDhzSm95VlNpU1M1T01CWV90ZTRzYXlQTEVxRlJya9IBckFVX3lxTE9vUV80NGV5dmdYRzd6dGJGY1dEZS1SWVZORlpUalpyZzhFdTlLcTdnYjRlY3hDTDBmUGVOWGphYnc4RS1DOC1UQ0kwZEJUMEZJYkNSbDF2UFAzaERxcmp4enpnUzZVbVFIbXpkemFpV2N5UQ?oc=5",
+   "source": "GBHackers News",
+   "published": "2026-11-23",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "11 Automotive Cybersecurity Companies: The 2026 Buyer’s Verdict Guide GBHackers News",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "d1e74f6f6e21",
+   "title": "JSW Motors partners with ARAI to develop and validate new energy vehicles for India - India Today",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeHgtWWxuSTl1OHd2elE3ZWNKblNWM29DNTdORjVyUEJUSE5VTUZ5cWlscHhObHVNWlhRcGFIN253dVo4d041X2ppWjA5NElWTExlNXFKa2o3dU9rX1VhUnN5clpkaVBoZ0dJZHNVUi1UT2lrdjJLVm8zY05tQk55RHhOVmtqRDh4Z0VoR1VWNDBjYTBrZVA2dXZQR21WWlhoMVlMTVAwMUNwSE1TODhsUXgwbG1pNTh5N1Vsb2JOTV9EUmtQWjJFa2ViMEFWaGltTHBtdHk2R1dySDdMZS13d09fQnU3TVljYVM4dWtpS2lzZ9IB8gFBVV95cUxQeHgtWWxuSTl1OHd2elE3ZWNKblNWM29DNTdORjVyUEJUSE5VTUZ5cWlscHhObHVNWlhRcGFIN253dVo4d041X2ppWjA5NElWTExlNXFKa2o3dU9rX1VhUnN5clpkaVBoZ0dJZHNVUi1UT2lrdjJLVm8zY05tQk55RHhOVmtqRDh4Z0VoR1VWNDBjYTBrZVA2dXZQR21WWlhoMVlMTVAwMUNwSE1TODhsUXgwbG1pNTh5N1Vsb2JOTV9EUmtQWjJFa2ViMEFWaGltTHBtdHk2R1dySDdMZS13d09fQnU3TVljYVM4dWtpS2lzZw?oc=5",
+   "source": "India Today",
+   "published": "2026-11-23",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "JSW Motors partners with ARAI to develop and validate new energy vehicles for India India Today",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "455dd9ae3cd5",
+   "title": "Can 250+ AI Agents Change Vehicle Engineering? L&T Launches SDVault.ai - Sahyadri Startups",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUzFFc0pEcnpvMWQta3JoQ0ZQaWdnSTBuY0Z6TEROcmNIT3Q2Wk9WckV0RGtuZkdfeGZKZHpzaXktU25nV0g0eTlzei10MlNYSDNrb0FEbndvYnF5Vzd0YldDQ1dmblNuZWJ1clFlTUQ2LTBkQ0hkbEwtTV9lc2REVGRLdzgxbUh6VnhhUFp0NG5GX1Z4Rm5jN1NkWTQ?oc=5",
+   "source": "Sahyadri Startups",
+   "published": "2026-11-23",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Can 250+ AI Agents Change Vehicle Engineering? L&T Launches SDVault.ai Sahyadri Startups",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "69a181c84386",
+   "title": "Overview of the Connected Car Devices Market: Key Industry Trends and Future Prospects - openPR.com",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNamozWmpGVklwSWkxUVJKOGljc3hkNVBUbEFES29oMWlOb1piZ0pSNU1ZOV9jMVZJck5vWk5yTm84emxRUnd0d3Q4RGFZVjlJeWYybFlLV0FlUWhLNV9raUR3b0JtUVlUbmVpaVpSUzhRSjJLaEdxTGlkb18yQ21BWk95T2tSSEZLN0Nsa0RHZ2JBRnRCTkpvNw?oc=5",
+   "source": "openPR.com",
+   "published": "2026-11-23",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Overview of the Connected Car Devices Market: Key Industry Trends and Future Prospects openPR.com",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "53b9922dff7a",
+   "title": "Vehicle-to-Everything (V2X) Communications System Market - openPR.com",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV21tSENNODNPMnN6UnozaFYtbHF6MnZIck5PbHNFY1dBUm9CeFBwbE9LYXh1ZWJjUm0wOFZXLVU3dUpSMHFORjMwZk9SSWtQVWJaT0F6MlhyRllURm9KZjhCNVdtM3QtN3lnQUNpMHI3QzFPLU9tdlA4TnFldE5UNW42VGh2RVNyUlEyUEp2UlRYVk5x?oc=5",
+   "source": "openPR.com",
+   "published": "2026-11-23",
+   "category": "Cellular & radio",
+   "heat": 3,
+   "summary": "Vehicle-to-Everything (V2X) Communications System Market openPR.com",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "aeeec9345ef7",
+   "title": "Researchers Hack Volkswagen Cars via Bluetooth to Spy on Conversations and Track GPS Locations - CyberSecurityNews",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rQmZTamphQjFNeXd5Y280NFE4WDBpT21mX0VfWDNBU0tSQWUzcUF2NFpscGwyNE9zNDhTSm9GTVRoUmJfM1BzLVVIdUlHcmwtUjJnQmtOS05jQm1oZENPRzFxWnVqQW1OZ3JWY3RKdmRNeWliRS12ctIBeEFVX3lxTE1rQmZTamphQjFNeXd5Y280NFE4WDBpT21mX0VfWDNBU0tSQWUzcUF2NFpscGwyNE9zNDhTSm9GTVRoUmJfM1BzLVVIdUlHcmwtUjJnQmtOS05jQm1oZENPRzFxWnVqQW1OZ3JWY3RKdmRNeWliRS12cg?oc=5",
+   "source": "CyberSecurityNews",
+   "published": "2026-11-23",
+   "category": "Cellular & radio",
+   "heat": 3,
+   "summary": "Researchers Hack Volkswagen Cars via Bluetooth to Spy on Conversations and Track GPS Locations CyberSecurityNews",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
   {
    "id": "6231e48f3bee",
    "title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
@@ -3419,6 +3527,15 @@
   "95adf7422f05",
   "707c5a536fd7",
   "5ef72acc6e8a",
-  "3a9449b3e403"
+  "3a9449b3e403",
+  "c6e182f058dc",
+  "9d87b20872e4",
+  "3d398f507243",
+  "6879b983be78",
+  "d1e74f6f6e21",
+  "455dd9ae3cd5",
+  "69a181c84386",
+  "53b9922dff7a",
+  "aeeec9345ef7"
  ]
 }
