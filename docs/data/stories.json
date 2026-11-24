@@ -1,7 +1,115 @@
 {
- "lastUpdated": "2026-11-23",
- "briefing": "9 new stories today. Top heat: “Do Alice and Bob Dream of the Oracle? Wishful Cryptanalysis” (3/10, AV perception & AI). Busiest topic: Threat reports (4).",
+ "lastUpdated": "2026-11-24",
+ "briefing": "9 new stories today. Top heat: “MirrorGuard: Defending LiDAR Perception against Passive Mirror Attacks” (7/10, AV perception & AI). Busiest topic: Threat reports (4).",
  "stories": [
+  {
+   "id": "0af95a3b95ae",
+   "title": "MirrorGuard: Defending LiDAR Perception against Passive Mirror Attacks",
+   "url": "https://arxiv.org/abs/2611.30292",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-24",
+   "category": "AV perception & AI",
+   "heat": 7,
+   "summary": "arXiv:2611.30292v1 Announce Type: new Abstract: Mirror-based LiDAR attacks passively redirect automotive LiDAR's beams to create phantom objects in the vehicle perception. Recent work has demonstrated that these attacks may cause vehicles to brake for a phantom where nothing stands. Every phantom return is a genuine time-of-flight measurement, so current spoofing defenses are not able to different",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "f5fa6a152f95",
+   "title": "Cross-Boundary Vulnerability Management for SDVs: A Traceability Architecture at the ISO/SAE 21434 and EU Cyber Resilience Act Interface",
+   "url": "https://arxiv.org/abs/2611.28303",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-24",
+   "category": "EV charging",
+   "heat": 3,
+   "summary": "arXiv:2611.28303v1 Announce Type: new Abstract: A software-defined vehicle depends on products that sit under different EU regimes. The type-approved vehicle and the systems, components and separate technical units made for it fall under Regulation (EU) 2019/2144, which makes UN R155 mandatory; Regulation (EU) 2018/858 does so for R156; and ISO/SAE 21434 supports the management system R155 require",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "953af3279d12",
+   "title": "Quantum-Resilient, PUF-Based, and Anonymity-Preserving Authentication and Key Agreement Scheme for UAV Networks",
+   "url": "https://arxiv.org/abs/2611.30107",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-24",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "arXiv:2611.30107v1 Announce Type: new Abstract: We design a lightweight authentication and key agreement protocol for Internet of Drones (IoD) environments that simultaneously provides post-quantum security, hardware-rooted trust, and resistance against machine-learning-based Physical Unclonable Function (PUF) modeling attacks. Existing PUF-based authentication schemes for unmanned aerial vehicles",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "4d42d08662f5",
+   "title": "POMA: Beyond Final Flags -- Process-Level Evaluation of Base LLMs in Vulnerability Exploitation",
+   "url": "https://arxiv.org/abs/2611.30590",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-24",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "arXiv:2611.30590v1 Announce Type: new Abstract: As large language models (LLMs) evolve from text generation to autonomous software-engineering execution, automated vulnerability exploitability verification has emerged as a vital frontier in software quality assurance and security validation. Existing security benchmarks, however, largely judge models by binary pass/fail outcomes or coarse stage mi",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "f04302659d62",
+   "title": "AUMOVIO Startup Organization, co-pace, Accelerates Automotive AI Innovation Through Collaboration - Yahoo Finance UK",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWng4TGlsS1h0RjNIZG5FcWpNblBMenVNZTJ1NHZQeHhJd0VpSGk3S2xsa1A1dll6OHNYMlJNbEl6YlBQMnNTYU9LNEg0RExQX3cybm9mYTJLbjRkMzJHWUU1R2xKR0JpYXZNR3ZkYk1ENEhVWW5seTJBSjMtb2hXUmFRTkJmbWk3aWhSbWFn?oc=5",
+   "source": "Yahoo Finance UK",
+   "published": "2026-11-24",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "AUMOVIO Startup Organization, co-pace, Accelerates Automotive AI Innovation Through Collaboration Yahoo Finance UK",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "89e32bec1d6f",
+   "title": "JSW Motors Partners With ARAI to Develop and Localize Next-Generation Electric Vehicles in India - Siliconindia",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaFhLY3MzdkNmNVNMVUhQZm5pWUhCNVp0c3hFNS1za1NIUTlVYW94Tjc4bzJ4ellJeEF6a2Q4ZkJTMU5XUkU2NEVYYWNsa3pyRUJZLTk2dTVyRG5fSkxHb1dTLWRqOHBQNFdtNllHbkFhZ3lrZUU1R3RCY01NUmEwMHotdDhaeUZRbWJFQ3RMdkJHckJlNG1PZ0FpZ29TMjJQbnZ2UFZnWVJ6UXNCVnh4a3JraElJVF9nenFDU0VaYlM4dGMyLXJqRV9wVFo3TDZrWXppNzdRUjV3aUxYY1paOG9oRVR1VGRCQnpfdFVCSHM?oc=5",
+   "source": "Siliconindia",
+   "published": "2026-11-24",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "JSW Motors Partners With ARAI to Develop and Localize Next-Generation Electric Vehicles in India Siliconindia",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "7b4246f48982",
+   "title": "Overview of the Vehicle-To-Everything (V2X) Cybersecurity - openPR.com",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd1FmeXk0QXBZVzVhSmlrU0lROHdHQ0V5TnBjZkZianZocFlNQ2FRcFJIX1k4YkhyaWNxczM4RE9LZWlXLXpoRFZlNVhpSkJyV2pyb3hKc0psbGdlT253VzZHRk1QTXgyOG5qOS12RTdnQm1Ca2QwYXRPTWtwU25uN3l6LXF1NTFPc3JGYkxKUUxRRVRaZHc?oc=5",
+   "source": "openPR.com",
+   "published": "2026-11-24",
+   "category": "Cellular & radio",
+   "heat": 3,
+   "summary": "Overview of the Vehicle-To-Everything (V2X) Cybersecurity openPR.com",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "07a6b9833d14",
+   "title": "Factors Driving the Growth of Automotive Electronics - openPR.com",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZnZBU2RyZzV5TXJ1VHZKbHJ4OXRwcHBvYUNpa1p4ZTVLY3piSWI1UmNnUUJtcHdSaTFwTWlkZUxMWGZiUmsyUG5EeUdOcXR3aUVIWG5FYnYwVVVNdGY1TVFKT1pEU19DZ1l6WlExSmhoRjZvNlBxSUNFbHBjcjVBaTZaRnMyMjRwZnV1bEdSSXdTZw?oc=5",
+   "source": "openPR.com",
+   "published": "2026-11-24",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Factors Driving the Growth of Automotive Electronics openPR.com",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "e81ec5510b7e",
+   "title": "Researchers Hack Volkswagen Cars via Bluetooth to Spy on Conversations and Track GPS Locations - CyberSecurityNews",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEczdHeElWb21CZHdvVjVBS0JpZ2hRN0ZFU21objM3SFlvejg5MEoxeGl3LWtzZTN3b2VyMGxiVnFDMU41S3gxbGpJd1dPZUpoMXR5SWVFaWxGRERLSmVZR1FzZHI3T0l6dlVkSDFxWkR2dEHSAXhBVV95cUxNa0JmU2pqYUIxTXl3eWNvNDRROFgwaU9tZl9FX1gzQVNLUkFlM3FBdjRabHBsMjRPczQ4U0pvRk1UaFJiXzNQcy1VSHVJR3JsLVIyZ0JrTktOY0JtaGRDT0cxcVp1akFtTmdyVmN0SnZkTXlpYkUtdnI?oc=5",
+   "source": "CyberSecurityNews",
+   "published": "2026-11-24",
+   "category": "Cellular & radio",
+   "heat": 3,
+   "summary": "Researchers Hack Volkswagen Cars via Bluetooth to Spy on Conversations and Track GPS Locations CyberSecurityNews",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
   {
    "id": "c6e182f058dc",
    "title": "Do Alice and Bob Dream of the Oracle? Wishful Cryptanalysis",
@@ -3536,6 +3644,15 @@
   "455dd9ae3cd5",
   "69a181c84386",
   "53b9922dff7a",
-  "aeeec9345ef7"
+  "aeeec9345ef7",
+  "f5fa6a152f95",
+  "953af3279d12",
+  "0af95a3b95ae",
+  "4d42d08662f5",
+  "f04302659d62",
+  "89e32bec1d6f",
+  "7b4246f48982",
+  "07a6b9833d14",
+  "e81ec5510b7e"
  ]
 }
