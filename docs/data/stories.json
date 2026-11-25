@@ -1,7 +1,31 @@
 {
- "lastUpdated": "2026-11-24",
- "briefing": "9 new stories today. Top heat: “MirrorGuard: Defending LiDAR Perception against Passive Mirror Attacks” (7/10, AV perception & AI). Busiest topic: Threat reports (4).",
+ "lastUpdated": "2026-11-25",
+ "briefing": "2 new stories today. Top heat: “Spoofing Wireless Sensing with Metasurfase-based Physical Deepfakes” (5/10, AV perception & AI). Busiest topic: AV perception & AI (2).",
  "stories": [
+  {
+   "id": "2e6bfa57b458",
+   "title": "Spoofing Wireless Sensing with Metasurfase-based Physical Deepfakes",
+   "url": "https://arxiv.org/abs/2611.32386",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-25",
+   "category": "AV perception & AI",
+   "heat": 5,
+   "summary": "arXiv:2611.32386v1 Announce Type: new Abstract: Wireless communication networks are expanding from mere information transfer to sensing: in the Integrated Sensing and Communication paradigm, existing infrastructure and signals are reused to capture physical information about the surroundings of devices, envisioned to inform high-stakes applications such as healthcare and autonomous vehicles. From ",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "63da0c2dc091",
+   "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+   "url": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
+   "source": "BleepingComputer",
+   "published": "2026-11-25",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
   {
    "id": "0af95a3b95ae",
    "title": "MirrorGuard: Defending LiDAR Perception against Passive Mirror Attacks",
@@ -3653,6 +3677,8 @@
   "89e32bec1d6f",
   "7b4246f48982",
   "07a6b9833d14",
-  "e81ec5510b7e"
+  "e81ec5510b7e",
+  "63da0c2dc091",
+  "2e6bfa57b458"
  ]
 }
