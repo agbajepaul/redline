@@ -1,7 +1,43 @@
 {
- "lastUpdated": "2026-11-25",
- "briefing": "2 new stories today. Top heat: “Spoofing Wireless Sensing with Metasurfase-based Physical Deepfakes” (5/10, AV perception & AI). Busiest topic: AV perception & AI (2).",
+ "lastUpdated": "2026-11-26",
+ "briefing": "4 new stories today. Top heat: “The Detour Is the Danger: Preserving Security During LLM Agent Recovery” (3/10, AV perception & AI). Busiest topic: AV perception & AI (3).",
  "stories": [
+  {
+   "id": "c0e894dfe249",
+   "title": "The Detour Is the Danger: Preserving Security During LLM Agent Recovery",
+   "url": "https://arxiv.org/abs/2611.33605",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-26",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "arXiv:2611.33605v1 Announce Type: new Abstract: LLM agents increasingly rely on external tools and reusable Skills to execute complex workflows, autonomously replanning when operations fail. However, such recovery may preserve task functionality while silently discarding the security protections required by the original workflow. In this paper, we investigate workflow security downgrade, a failure",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "0d1fd6273cc3",
+   "title": "AESP: A Human-Sovereign Economic Protocol for AI Agents with Privacy-Preserving Settlement",
+   "url": "https://arxiv.org/abs/2603.00318",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-26",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "arXiv:2603.00318v2 Announce Type: replace Abstract: As AI agents increasingly perform economic tasks on behalf of humans, a fundamental tension arises between agent autonomy and human control over financial assets. We present the Agent Economic Sovereignty Protocol (AESP), a layered protocol in which agents transact autonomously at machine speed on crypto-native infrastructure while remaining cryp",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "6bbcaae3a76b",
+   "title": "VirusCascade: Hijacking Collaborative Reflection in LLM-Powered Recommender Agents",
+   "url": "https://arxiv.org/abs/2609.38270",
+   "source": "arXiv cs.CR",
+   "published": "2026-11-26",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "arXiv:2609.38270v2 Announce Type: replace Abstract: Advancing beyond traditional static scoring models, LLM-powered agentic recommender systems (LLM-ARS) instantiate users and items as autonomous agents, whose semantic states are dynamically refined through a recurrent process known as collaborative reflection. While this mechanism improves recommendation quality, it simultaneously introduces a sy",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
   {
    "id": "2e6bfa57b458",
    "title": "Spoofing Wireless Sensing with Metasurfase-based Physical Deepfakes",
@@ -23,6 +59,18 @@
    "category": "AV perception & AI",
    "heat": 3,
    "summary": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "2dee1498350a",
+   "title": "A Budapest Team Hijacked a VW ID.4 Over Bluetooth and Recorded What Was Said in the Cabin. VW Was Warned Back in June 2024 - The Auto Wire",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2WnZPSjVKR1NaR0l4Tl9hWExVeWtfeDFLalJPeXdUVzJoRDIyT2YyckI4ekJRdWhwUnFTNldHMFIyUXozLU1kek5LRmZyZGR5YlBzZWhEUVVETFQ3akxENDVRRFljZ1h3eUU3U1BDTDgxQmYzVkhfNGlQMERoQQ?oc=5",
+   "source": "The Auto Wire",
+   "published": "2026-11-25",
+   "category": "Infotainment",
+   "heat": 3,
+   "summary": "A Budapest Team Hijacked a VW ID.4 Over Bluetooth and Recorded What Was Said in the Cabin. VW Was Warned Back in June 2024 The Auto Wire",
    "whyItMatters": "",
    "researchAngle": ""
   },
@@ -3679,6 +3727,10 @@
   "07a6b9833d14",
   "e81ec5510b7e",
   "63da0c2dc091",
-  "2e6bfa57b458"
+  "2e6bfa57b458",
+  "c0e894dfe249",
+  "0d1fd6273cc3",
+  "6bbcaae3a76b",
+  "2dee1498350a"
  ]
 }
