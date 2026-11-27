@@ -1,7 +1,31 @@
 {
- "lastUpdated": "2026-11-26",
- "briefing": "4 new stories today. Top heat: “The Detour Is the Danger: Preserving Security During LLM Agent Recovery” (3/10, AV perception & AI). Busiest topic: AV perception & AI (3).",
+ "lastUpdated": "2026-11-27",
+ "briefing": "2 new stories today. Top heat: “Matters.AI Lands India’s Largest Cybersecurity Pre-Series A Round to Fight AI Data Risks” (3/10, AV perception & AI).",
  "stories": [
+  {
+   "id": "47ba8e3fb16d",
+   "title": "Matters.AI Lands India’s Largest Cybersecurity Pre-Series A Round to Fight AI Data Risks",
+   "url": "https://www.darkreading.com/cyber-risk/matters-india-cybersecurity-pre-series-ai-data-risks",
+   "source": "Dark Reading",
+   "published": "2026-11-27",
+   "category": "AV perception & AI",
+   "heat": 3,
+   "summary": "The security startup consolidates four legacy security tools into an autonomous platform that uses context-aware AI to trace sensitive data lineage, analyze user intent, and automatically remediate threats across enterprise environments.",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
+  {
+   "id": "5804fb0bbf26",
+   "title": "Auto-ISAC and BSI at escar Europe 2026 - PressNetwork",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LcThVUjNaQy0yU3dXa215WGxyVlJSN2E4M3BqTnNBb25ZcXlvNVEwZkNHcDRmc25vVFhOaEgyTmR4LVdobENvc25JQ1BzOTA3ekQ5MkRkbWVSai1aWWhUM1F3QTJPTGVNSlh1cTZNbmE?oc=5",
+   "source": "PressNetwork",
+   "published": "2026-11-27",
+   "category": "Threat reports",
+   "heat": 3,
+   "summary": "Auto-ISAC and BSI at escar Europe 2026 PressNetwork",
+   "whyItMatters": "",
+   "researchAngle": ""
+  },
   {
    "id": "c0e894dfe249",
    "title": "The Detour Is the Danger: Preserving Security During LLM Agent Recovery",
@@ -3731,6 +3755,8 @@
   "c0e894dfe249",
   "0d1fd6273cc3",
   "6bbcaae3a76b",
-  "2dee1498350a"
+  "2dee1498350a",
+  "47ba8e3fb16d",
+  "5804fb0bbf26"
  ]
 }
